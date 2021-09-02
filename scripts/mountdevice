@@ -1,0 +1,2 @@
+#!/bin/bash
+mount -o rw,user,uid=1000,umask=007,exec /dev/sdb4 ~/Data

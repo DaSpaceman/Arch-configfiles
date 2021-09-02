@@ -1,0 +1,58 @@
+;;  This is the file where widgets and how they appear 
+
+
+  
+    ;;  this is the place where you structure widgets, align them and stuff  
+	  ;; Here we configure the clock and day  
+    (defwidget time_side [] 
+      (box :orientation "v" :space-evenly "false" 
+        (box :orientation "h" :class "time-side" :space-evenly "true" 
+          (box :class "hour-side" hour)
+          (box :class "minute-side" min))
+        (box :class "day-side" day)))
+
+    ;;  This is where we configure and define calendar, number day and month 
+    (defwidget smol_calendar [] 
+      (box :orientation "v" :space-evenly "false" 
+        (box :class "number_day" number_day)
+        (box :class "month" month)))
+    ;;  I'm trying to set a volume vertical slider  
+    (defwidget volume_slider [] 
+      (box :orientation "v" :space-evenly "false" :class "slider-vol-box" 
+        (box :orientation "h" :class "slider-volume" :space-evenly "false" 
+          (box :class "label-vol" "")
+          (scale :min 0 :max 101 :value volume :onchange "amixer -D pulse sset Master {}%"))))
+    (defwidget sliders_side [] 
+      (box :orientation "v" :space-evenly "false" :class "sliders-side" 
+        (box :orientation "h" :class "slider-vol-side" :space-evenly "false" 
+          (box :class "label-vol-side" "")
+          (scale :min 0 :max 101 :value volume :onchange "amixer -D pulse sset Master {}%"))))
+
+  
+ 
+  
+    ;;  Date var
+    (defpoll number_day :interval "5h"  "date \"+%d\"")
+    (defpoll month :interval "10h"  "date \"+%b\"")
+    (defpoll min :interval "10s"  "date \"+%M\"")
+    (defpoll hour :interval "30m"  "date \"+%H\"")
+    (defpoll day :interval "15h"  "~/.config/eww/scripts/getday")
+    (defpoll month_full :interval "15h"  "date \"+%B\"")
+    (defpoll year_full :interval "15h"  "date \"+%Y\"")
+
+    ;;  Media vars  
+    (defpoll volume :interval "3ms"  "~/.config/eww/scripts/getvolume")
+                (defwindow smol_calendar 
+			    :geometry (geometry :x "10px" :y "45px" :width "80px" :height "80px")
+			     				(smol_calendar))
+        (defwindow time_side 
+			    :geometry (geometry :x "10px" :y "130px" :width "300px" :height "135px")
+			     				(time_side))
+    (defwindow volume_slider 
+			    :geometry (geometry :x "1100px" :y "50px" :width 301 :height "65px")
+			     				(volume_slider))
+     (defwindow sliders_side 
+			    :geometry (geometry :x "10px" :y "385px" :width "300px" :height "205px")
+			     				(sliders_side))
+  
+

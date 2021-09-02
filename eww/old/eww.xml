@@ -1,0 +1,90 @@
+<!-- This is the file where widgets and how they appear -->
+
+<eww>
+  <definitions>
+    <!-- this is the place where you structure widgets, align them and stuff  -->
+	  <!--Here we configure the clock and day --> 
+    <def name="time_side">
+      <box orientation="v" space-evenly="false">
+        <box orientation="h" class="time-side" space-evenly="true">
+          <box class="hour-side">{{hour}}</box>
+          <box class="minute-side">{{min}}</box> 
+        </box>
+        <box class="day-side">{{day}}</box>
+      </box>
+    </def>
+
+    <!-- This is where we configure and define calendar, number day and month -->
+    <def name="smol_calendar">
+      <box orientation="v"  space-evenly="false">
+        <box class="number_day">{{number_day}}</box>
+        <box class="month">{{month}}</box>
+      </box>
+    </def>
+    <!-- I'm trying to set a volume vertical slider --> 
+    <def name="volume_slider">
+      <box orientation="v" space-evenly="false" class="slider-vol-box">
+        <box orientation="h" class="slider-volume" space-evenly="false">
+          <box class="label-vol"></box>
+          <scale min="0" max="101" value="{{volume}}" onchange="amixer -D pulse sset Master {}%"/>
+        </box>
+      </box>
+    </def>
+
+    <def name="sliders_side">
+      <box orientation="v" space-evenly="false" class="sliders-side">
+        <box orientation="h" class="slider-vol-side" space-evenly="false">
+          <box class="label-vol-side"></box>
+          <scale min="0" max="101" value="{{volume}}" onchange="amixer -D pulse sset Master {}%"/>
+        </box>
+      </box>
+    </def>
+
+  </definitions>
+ 
+  <variables>
+    <!-- Date var-->
+    <script-var name="number_day" interval="5h">date "+%d"</script-var>
+    <script-var name="month" interval="10h">date "+%b"</script-var>
+    <script-var name="min" interval="10s">date "+%M"</script-var>
+    <script-var name="hour" interval="30m">date "+%H"</script-var>
+    <script-var name="day" interval="15h">~/.config/eww/scripts/getday</script-var>
+    <script-var name="month_full" interval="15h">date "+%B"</script-var>
+    <script-var name="year_full" interval="15h">date "+%Y"</script-var>
+
+    <!-- Media vars --> 
+    <script-var name="volume" interval="3ms">~/.config/eww/scripts/getvolume</script-var>
+
+    </variables>
+    
+  <windows>
+  
+    <window name="smol_calendar">
+      <geometry x="10px" y="45px" width="80px" height="80px"/>
+      <widget>
+        <smol_calendar/>
+      </widget>
+    </window>
+    
+    <window name="time_side">
+      <geometry x="10px" y="130px" width="300px" height="135px"/>
+      <widget>
+        <time_side/>
+      </widget>
+    </window>
+
+    <window name="volume_slider">
+      <geometry x="1100px" y="50px" width="301" height="65px"/>
+      <widget> 
+	      <volume_slider/>
+      </widget>
+    </window> 
+
+    <window name="sliders_side">
+	    <geometry x="10px" y="385px" width="300px" height="205px"/>
+	    <widget>
+		<sliders_side/>
+	    </widget>
+    </window>
+  </windows>
+</eww>

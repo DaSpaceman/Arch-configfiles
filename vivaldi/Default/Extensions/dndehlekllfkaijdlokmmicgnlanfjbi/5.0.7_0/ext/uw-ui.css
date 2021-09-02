@@ -1,0 +1,112 @@
+.uw-ultrawidify-container-root .json-level-indent[data-v-70940951]{padding-left:2em !important;font-family:'Overpass Mono', monospace}.uw-ultrawidify-container-root .item-key[data-v-70940951]{color:#ffc494}.uw-ultrawidify-container-root .item-key-boolean-false[data-v-70940951]{color:#cf9565}.uw-ultrawidify-container-root .json-value-boolean-true[data-v-70940951]{color:#96f0c6}.uw-ultrawidify-container-root .json-value-boolean-false[data-v-70940951]{color:#f11515}.uw-ultrawidify-container-root .json-value-number[data-v-70940951]{color:#7979ee}.uw-ultrawidify-container-root .json-value-string[data-v-70940951]{color:#e2af07}
+
+.uw-ultrawidify-container-root .json-level-indent[data-v-8764e662]{padding-left:2em !important;font-family:'Overpass Mono', monospace}.uw-ultrawidify-container-root .item-key[data-v-8764e662]{color:#ffc494}.uw-ultrawidify-container-root .item-key-boolean-false[data-v-8764e662]{color:#cf9565}.uw-ultrawidify-container-root .json-value-boolean-true[data-v-8764e662]{color:#96f0c6}.uw-ultrawidify-container-root .json-value-boolean-false[data-v-8764e662]{color:#f11515}.uw-ultrawidify-container-root .json-value-number[data-v-8764e662]{color:#7979ee}.uw-ultrawidify-container-root .json-value-string[data-v-8764e662]{color:#e2af07}
+
+.uw-ultrawidify-container-root .flex[data-v-8764e662]{display:flex}.uw-ultrawidify-container-root .flex-row[data-v-8764e662]{flex-direction:row}.uw-ultrawidify-container-root .flex-column[data-v-8764e662]{flex-direction:column}.uw-ultrawidify-container-root .flex-auto[data-v-8764e662]{flex:1 1 auto}.uw-ultrawidify-container-root .flex-grow[data-v-8764e662]{flex-grow:1}.uw-ultrawidify-container-root .flex-nogrow[data-v-8764e662]{flex-grow:0}.uw-ultrawidify-container-root .flex-shrink[data-v-8764e662]{flex-shrink:1}.uw-ultrawidify-container-root .flex-noshrink[data-v-8764e662]{flex-shrink:0}.uw-ultrawidify-container-root .flex-wrap[data-v-8764e662]{flex-wrap:wrap}.uw-ultrawidify-container-root .flex-center[data-v-8764e662]{align-content:center;align-items:center}.uw-ultrawidify-container-root .flex-end[data-v-8764e662]{justify-content:flex-end}.uw-ultrawidify-container-root .flex-cross-center[data-v-8764e662]{justify-content:center;justify-items:center}.uw-ultrawidify-container-root .flex-self-center[data-v-8764e662]{align-self:center}
+
+.uw-ultrawidify-container-root .json-level-indent[data-v-55e608c0]{padding-left:2em !important;font-family:'Overpass Mono', monospace}.uw-ultrawidify-container-root .item-key[data-v-55e608c0]{color:#ffc494}.uw-ultrawidify-container-root .item-key-boolean-false[data-v-55e608c0]{color:#cf9565}.uw-ultrawidify-container-root .json-value-boolean-true[data-v-55e608c0]{color:#96f0c6}.uw-ultrawidify-container-root .json-value-boolean-false[data-v-55e608c0]{color:#f11515}.uw-ultrawidify-container-root .json-value-number[data-v-55e608c0]{color:#7979ee}.uw-ultrawidify-container-root .json-value-string[data-v-55e608c0]{color:#e2af07}
+
+
+.bi.icon[data-v-5640a346] {
+  margin-left: 0.25em;
+  margin-right: 0.25em;
+}
+
+.uw-ultrawidify-container-root .flex[data-v-7973eec0]{display:flex}.uw-ultrawidify-container-root .flex-row[data-v-7973eec0]{flex-direction:row}.uw-ultrawidify-container-root .flex-column[data-v-7973eec0]{flex-direction:column}.uw-ultrawidify-container-root .flex-auto[data-v-7973eec0]{flex:1 1 auto}.uw-ultrawidify-container-root .flex-grow[data-v-7973eec0]{flex-grow:1}.uw-ultrawidify-container-root .flex-nogrow[data-v-7973eec0]{flex-grow:0}.uw-ultrawidify-container-root .flex-shrink[data-v-7973eec0]{flex-shrink:1}.uw-ultrawidify-container-root .flex-noshrink[data-v-7973eec0]{flex-shrink:0}.uw-ultrawidify-container-root .flex-wrap[data-v-7973eec0]{flex-wrap:wrap}.uw-ultrawidify-container-root .flex-center[data-v-7973eec0]{align-content:center;align-items:center}.uw-ultrawidify-container-root .flex-end[data-v-7973eec0]{justify-content:flex-end}.uw-ultrawidify-container-root .flex-cross-center[data-v-7973eec0]{justify-content:center;justify-items:center}.uw-ultrawidify-container-root .flex-self-center[data-v-7973eec0]{align-self:center}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-thin.woff2) format('woff2'); /* Super Modern Browsers */
+       font-weight: 200;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-thin-italic.woff2) format('woff2');
+       font-weight: 200;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-extralight.woff2) format('woff2');
+       font-weight: 300;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-extralight-italic.woff2) format('woff2');
+       font-weight: 300;
+       font-style: italic;
+}
+
+
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-light.woff2) format('woff2');
+       font-weight: 400;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-light-italic.woff2) format('woff2');
+       font-weight: 400;
+       font-style: italic;
+}
+
+
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-regular.woff2) format('woff2');
+       font-weight: 500;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-italic.woff2) format('woff2');
+       font-weight: 500;
+       font-style: italic;
+}
+
+
+
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-semibold.woff2) format('woff2');
+       font-weight: 600;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-semibold-italic.woff2) format('woff2');
+       font-weight: 600;
+       font-style: italic;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-bold.woff2) format('woff2');
+       font-weight: 700;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-bold-italic.woff2) format('woff2');
+       font-weight: 700;
+       font-style: italic;
+}
+
+@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-thin.woff2") format("woff2");font-weight:200;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-thin-italic.woff2") format("woff2");font-weight:200;font-style:italic}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-extralight.woff2") format("woff2");font-weight:300;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-extralight-italic.woff2") format("woff2");font-weight:300;font-style:italic}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-light.woff2") format("woff2");font-weight:400;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-light-italic.woff2") format("woff2");font-weight:400;font-style:italic}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-regular.woff2") format("woff2");font-weight:500;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-italic.woff2") format("woff2");font-weight:500;font-style:italic}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-semibold.woff2") format("woff2");font-weight:600;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-semibold-italic.woff2") format("woff2");font-weight:600;font-style:italic}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-bold.woff2") format("woff2");font-weight:700;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-bold-italic.woff2") format("woff2");font-weight:700;font-style:italic}@font-face{font-family:'Overpass mono';src:url("/res/fonts/overpass-mono-webfont/overpass-mono-light.woff2") format("woff2");font-weight:300;font-style:normal}@font-face{font-family:'Overpass mono';src:url("/res/fonts/overpass-mono-webfont/overpass-mono-regular.woff2") format("woff2");font-weight:400;font-style:normal}@font-face{font-family:'Overpass mono';src:url("/res/fonts/overpass-mono-webfont/overpass-mono-semibold.woff2") format("woff2");font-weight:500;font-style:normal}@font-face{font-family:'Overpass mono';src:url("/res/fonts/overpass-mono-webfont/overpass-mono-bold.woff2") format("woff2");font-weight:600;font-style:normal}.uw-ultrawidify-container-root .flex[data-v-7973eec0]{display:flex}.uw-ultrawidify-container-root .flex-row[data-v-7973eec0]{flex-direction:row}.uw-ultrawidify-container-root .flex-column[data-v-7973eec0]{flex-direction:column}.uw-ultrawidify-container-root .flex-auto[data-v-7973eec0]{flex:1 1 auto}.uw-ultrawidify-container-root .flex-grow[data-v-7973eec0]{flex-grow:1}.uw-ultrawidify-container-root .flex-nogrow[data-v-7973eec0]{flex-grow:0}.uw-ultrawidify-container-root .flex-shrink[data-v-7973eec0]{flex-shrink:1}.uw-ultrawidify-container-root .flex-noshrink[data-v-7973eec0]{flex-shrink:0}.uw-ultrawidify-container-root .flex-wrap[data-v-7973eec0]{flex-wrap:wrap}.uw-ultrawidify-container-root .flex-center[data-v-7973eec0]{align-content:center;align-items:center}.uw-ultrawidify-container-root .flex-end[data-v-7973eec0]{justify-content:flex-end}.uw-ultrawidify-container-root .flex-cross-center[data-v-7973eec0]{justify-content:center;justify-items:center}.uw-ultrawidify-container-root .flex-self-center[data-v-7973eec0]{align-self:center}body[data-v-7973eec0]{background-color:#101010;color:#ddd;font-family:'Overpass', sans-serif;font-size:1.2em;width:100%;min-height:100%;height:100vh;border:0px;margin:0px;padding:0px}.uw-ultrawidify-container-root .w100[data-v-7973eec0]{width:100%}.uw-ultrawidify-container-root .h100[data-v-7973eec0]{height:100%}.uw-ultrawidify-container-root .w24[data-v-7973eec0]{width:100px}.uw-ultrawidify-container-root .m-t-0-33em[data-v-7973eec0]{margin-top:0.33em}.uw-ultrawidify-container-root .x-pad-1em[data-v-7973eec0]{padding-left:1em;padding-right:1em}.uw-ultrawidify-container-root .overflow-y-auto[data-v-7973eec0]{overflow:auto;scrollbar-width:thin;scrollbar-color:rgba(251,119,42,0.7) #101010}.uw-ultrawidify-container-root .scrollbar-darker[data-v-7973eec0]{scrollbar-color:rgba(251,119,42,0.5) #101010}.uw-ultrawidify-container-root .overflow-y-auto[data-v-7973eec0]::-webkit-scrollbar{width:3px}.uw-ultrawidify-container-root .overflow-y-auto[data-v-7973eec0]::-webkit-scrollbar-track{background:#101010}.uw-ultrawidify-container-root .overflow-y-auto[data-v-7973eec0]::-webkit-scrollbar-thumb{background:rgba(251,119,42,0.7)}.uw-ultrawidify-container-root .overflow-y-auto[data-v-7973eec0]::-webkit-scrollbar-button{display:none}.uw-ultrawidify-container-root .scrollbar-darker[data-v-7973eec0]::-webkit-scrollbar-thumb{background:rgba(251,119,42,0.5)}.uw-ultrawidify-container-root .no-overflow[data-v-7973eec0]{overflow:hidden}.uw-ultrawidify-container-root .no-overflow-x[data-v-7973eec0]{overflow-x:hidden}.uw-ultrawidify-container-root .no-overflow-y[data-v-7973eec0]{overflow-y:hidden}.uw-ultrawidify-container-root .selected-tab[data-v-7973eec0]{background-color:initial;border-left:#fb772a 5px solid}.uw-ultrawidify-container-root .selected-tab-secondary[data-v-7973eec0]{background-color:initial;border-left:#e70c0c 3px solid !important}.uw-ultrawidify-container-root .description[data-v-7973eec0]{color:#999;font-size:1rem}.uw-ultrawidify-container-root .label[data-v-7973eec0]{padding-top:1.5rem;font-size:1.5rem;font-variant:small-caps;font-weight:600}.uw-ultrawidify-container-root .label-secondary[data-v-7973eec0]{font-weight:600}.uw-ultrawidify-container-root .button-box[data-v-7973eec0]{padding-top:0.69rem;padding-bottom:0.69rem}.uw-ultrawidify-container-root .indent[data-v-7973eec0]{padding-left:4.2rem}.uw-ultrawidify-container-root .row-padding[data-v-7973eec0]{padding-top:0.69rem;padding-bottom:0.69rem}.uw-ultrawidify-container-root a[data-v-7973eec0],.uw-ultrawidify-container-root a[data-v-7973eec0]:visited{color:#fb772a}.uw-ultrawidify-container-root a[data-v-7973eec0]:hover{color:#fc975c}.uw-ultrawidify-container-root input[type="number"][data-v-7973eec0],.uw-ultrawidify-container-root input[type="text"][data-v-7973eec0],.uw-ultrawidify-container-root input[data-v-7973eec0]{outline:none;background-color:#141414;color:#ddd;padding:0.1rem;padding-top:0.2rem;padding-bottom:0.1rem;margin-left:1rem;border:1px solid #4e3527}.uw-ultrawidify-container-root input[data-v-7973eec0]:disabled{background:#444444;color:#5e5e5e}.uw-ultrawidify-container-root .row[data-v-7973eec0]{display:block;margin-top:20px;margin-bottom:10px}.uw-ultrawidify-container-root .button-row[data-v-7973eec0]{display:block;margin-top:5px;margin-bottom:10px}.uw-ultrawidify-container-root .float-left[data-v-7973eec0]{float:left}.uw-ultrawidify-container-root .float-right[data-v-7973eec0]{float:right}.uw-ultrawidify-container-root .inline-block[data-v-7973eec0]{display:inline-block}.uw-ultrawidify-container-root .block[data-v-7973eec0]{display:block}.uw-ultrawidify-container-root .hidden[data-v-7973eec0]{display:none !important}.uw-ultrawidify-container-root .hide[data-v-7973eec0]{display:none !important}.uw-ultrawidify-container-root small[data-v-7973eec0]{font-size:0.75em;font-weight:200}.uw-ultrawidify-container-root .small[data-v-7973eec0]{font-size:0.75em;font-weight:200}.uw-ultrawidify-container-root .medium-small[data-v-7973eec0]{font-size:0.85em;font-weight:200}.uw-ultrawidify-container-root .smallcaps[data-v-7973eec0]{font-variant:small-caps}.uw-ultrawidify-container-root .center[data-v-7973eec0]{text-align:center;width:100%}.uw-ultrawidify-container-root .text-center[data-v-7973eec0]{text-align:center}.uw-ultrawidify-container-root .invalid-input[data-v-7973eec0]{border:1px solid #720 !important;background-color:#410 !important}.uw-ultrawidify-container-root .button[data-v-7973eec0]{border:1px solid #272727;margin-top:3px;margin-bottom:3px;color:#999;text-align:center;cursor:pointer;user-select:none}.uw-ultrawidify-container-root .selected[data-v-7973eec0],.uw-ultrawidify-container-root .setting-selected[data-v-7973eec0]{color:#f5cbaf !important;background-color:#412d20 !important}.uw-ultrawidify-container-root .selected-tab[data-v-7973eec0]{color:#f5cbaf}.uw-ultrawidify-container-root .setting-selected[data-v-7973eec0]{border:1px solid shade(#f5cbaf, 25%)}.uw-ultrawidify-container-root .button[data-v-7973eec0]:hover{color:#fbe8dc;background-color:#634531}.uw-ultrawidify-container-root .disabled[data-v-7973eec0]{pointer-events:none;filter:contrast(50%) brightness(40%) grayscale(100%)}.uw-ultrawidify-container-root .disabled-button[data-v-7973eec0]{color:#666 !important;cursor:not-allowed !important}.uw-ultrawidify-container-root .disabled-button[data-v-7973eec0]:hover{color:#777 !important;background-color:#222 !important}.uw-ultrawidify-container-root .disabled-edge[data-v-7973eec0]{pointer-events:none !important;filter:contrast(50%) brightness(40%) grayscale(100%) !important;content:"NOT SUPPORTED IN THIS BROWSER"}.uw-ultrawidify-container-root .disabled-edge[data-v-7973eec0]::after{background-color:#333272;color:#d8d9e6;display:inline-block;font-size:.75em;font-variant:small-caps;padding-left:5px;padding-right:5px;margin-left:10px}.uw-ultrawidify-container-root .warning-color[data-v-7973eec0]{color:#d6ba4a}.uw-ultrawidify-container-root .warning[data-v-7973eec0],.uw-ultrawidify-container-root .warning-lite[data-v-7973eec0]{color:#d6ba4a;padding-left:35px;float:right}.uw-ultrawidify-container-root .warning[data-v-7973eec0]::before,.uw-ultrawidify-container-root .warning-lite[data-v-7973eec0]::before{content:"\26A0   ";display:inline-block}.uw-ultrawidify-container-root .warning[data-v-7973eec0]::before{font-weight:bold;font-size:2.5em;margin-left:-35px;padding-right:10px}.uw-ultrawidify-container-root .info[data-v-7973eec0]{color:#bda9f3;padding-left:35px;float:right}.uw-ultrawidify-container-root .info[data-v-7973eec0]::before{content:"\24D8";display:inline-block;font-weight:bold;margin-left:-35px;padding-right:10px}.uw-ultrawidify-container-root .new[data-v-7973eec0]{color:#fff}.uw-ultrawidify-container-root .new[data-v-7973eec0]::after{content:"\24D8";color:#bda9f3 !important;display:inline-block;font-weight:bold;padding-right:10px}.uw-ultrawidify-container-root .experimental[data-v-7973eec0]::after{content:"\24BA";color:#ffde12;display:inline-block;font-size:.75em;font-variant:small-caps;padding-left:5px;padding-right:5px;margin-left:10px;margin-top:-4px}.uw-ultrawidify-container-root .experimental[data-v-7973eec0]:hover::after{content:"\24BA   Experimental";color:#ffde12;display:inline-block;font-size:.75em;font-variant:small-caps;padding-left:5px;padding-right:5px;margin-left:10px;margin-top:-4px}.uw-ultrawidify-container-root .sticky-bottom[data-v-7973eec0]{width:100%;position:sticky;bottom:0px;background-color:rgba(16,16,16,0.7)}.uw-ultrawidify-container-root .rtl[data-v-7973eec0]{direction:rtl}.uw-ultrawidify-container-root .ltr[data-v-7973eec0]{direction:ltr}.uw-ultrawidify-container-root .monospace[data-v-7973eec0]{font-family:'Overpass Mono'}.uw-ultrawidify-container-root .root-window[data-v-7973eec0]{position:fixed !important;top:5vh !important;left:5vw !important;width:90vw !important;height:90vh !important;z-index:999999 !important;background-color:rgba(16,16,16,0.9) !important;color:#f1f1f1 !important;font-size:14px !important;box-sizing:border-box !important}.uw-ultrawidify-container-root div[data-v-7973eec0]{font-family:'Overpass'}.uw-ultrawidify-container-root h1[data-v-7973eec0],.uw-ultrawidify-container-root h2[data-v-7973eec0]{font-family:'Overpass Thin'}.uw-ultrawidify-container-root h1[data-v-7973eec0]{font-size:4em}.uw-ultrawidify-container-root h2[data-v-7973eec0]{font-size:2em}.uw-ultrawidify-container-root .header h1[data-v-7973eec0]{margin-bottom:-0.20em;margin-top:0.0em}.uw-ultrawidify-container-root .header .header-top[data-v-7973eec0],.uw-ultrawidify-container-root .header .header-bottom[data-v-7973eec0]{padding-left:16px;padding-right:16px}.uw-ultrawidify-container-root .header .header-top[data-v-7973eec0]{background-color:#7f1416 !important}.uw-ultrawidify-container-root .header .header-bottom[data-v-7973eec0]{font-size:1.75em}.uw-ultrawidify-container-root .content[data-v-7973eec0]{box-sizing:border-box;padding:8px 32px;width:100%}.uw-ultrawidify-container-root .settings-panel[data-v-7973eec0]{box-sizing:border-box;padding-right:8px;flex-grow:2 !important;min-width:30% !important;flex-shrink:0 !important;height:inherit !important}.uw-ultrawidify-container-root .results-panel[data-v-7973eec0]{box-sizing:border-box;padding-left:8px;max-width:70% !important;flex-grow:5 !important;flex-shrink:0 !important;height:inherit !important}.uw-ultrawidify-container-root .scrollable[data-v-7973eec0]{overflow:auto}.uw-ultrawidify-container-root .overflow-hidden[data-v-7973eec0]{overflow:hidden}.uw-ultrawidify-container-root pre[data-v-7973eec0]{font-family:'Overpass Mono'}.uw-ultrawidify-container-root .m-025em[data-v-7973eec0]{margin:0.25em}.uw-ultrawidify-container-root .p-t-025em[data-v-7973eec0]{padding-top:0.25em}.uw-ultrawidify-container-root .button[data-v-7973eec0]{display:inline-flex;align-items:center;justify-items:center;padding-left:2em;padding-right:2em}.uw-ultrawidify-container-root .button-primary[data-v-7973eec0]{background-color:#fb772a;color:#fff}.uw-ultrawidify-container-root .button-big[data-v-7973eec0]{font-size:1.5em;padding:1.75em 3.25em}.uw-ultrawidify-container-root .button-bar[data-v-7973eec0]{font-size:1.25em;padding:0.25em 1.25em;margin-left:0.25em}.uw-ultrawidify-container-root .button-header[data-v-7973eec0]{font-size:2em;padding-top:0.1em;padding-left:1em;padding-right:1em}.uw-ultrawidify-container-root .jsonbg[data-v-7973eec0]{background-color:#131313}.uw-ultrawidify-container-root .jsonbg-error[data-v-7973eec0]{background-color:#884420}.uw-ultrawidify-container-root .log-config-margin[data-v-7973eec0]{margin-top:3em;margin-bottom:3em}
+
+
+/*# sourceMappingURL=uw-ui.css.map*/

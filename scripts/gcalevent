@@ -1,0 +1,7 @@
+#!/bin/bash
+DAY=$(date '+%d')
+NEXTDAY=$(date '+%d' -d '+3 days')
+EVENT="$(gcalcli agenda $DAY $NEXTDAY)"
+#CALDATE= "$(date +'%a %b %d' -d '+2 days')"
+echo $EVENT
+#echo $CALDATE

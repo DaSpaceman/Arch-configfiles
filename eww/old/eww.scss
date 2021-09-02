@@ -1,0 +1,135 @@
+* {
+  all: unset;
+}
+
+window {
+  background-color: #121212;
+/*  background-color: #000000; */
+	color: #ffd5cd;
+  font-family: Museo Sans;
+  border-radius: 25px;
+}
+button {
+	all: unset;
+	background-color: #121212;
+	padding: 10px;
+}
+
+.month {
+  font-weight: bold;
+  // color: #c47eb7;
+}
+
+.time-side {
+  margin: 20px 65px 0px 65px;
+  font-size: 60px;
+}
+.minute-side {
+  color: #D35D6E;
+}
+.day-side {
+  font-size: 16px;
+  font-weight: bold;
+  color: #90c861;
+}
+
+.calendar_title {
+  margin: 20px 20px 0px 20px;
+  font-size: 16px;
+}
+
+.number_day{
+	padding-top: 10px;
+	font-size: 35px;
+	color: #D35D6E;
+}
+/*
+.volume scale trough {
+	all: unset;
+	background-color: #4e4e4e;
+	border-radius: 50px;
+	min-height: 5px;
+	min-width: 240px;
+	margin-bottom: 20px;
+}
+
+.volume scale trough highlight {
+	all: unset;
+	background-color: #ffd5cd;
+	color: #000000;
+	border-radius: 10px;
+}
+
+.volume slider {
+	 all: unset;
+	 color: #ffd5cd;
+}
+
+.sliders-side slider {
+	all: unset;
+	color: #ffd5cd;
+}
+
+.slider-vol-side {
+	margin-top: 10px;
+}
+.slider-vol-side scale trough highlight {
+	all: unset;
+	background-color: #c47eb7;
+	color: #000000;
+	border-radius: 10px;
+}
+.slider-vol-side scale trough {
+	all: unset;
+	background-color: #4e4e4e;
+	border-radius: 50px;
+	min-height: 5px;
+	min-width: 170px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+.label-vol-side{
+	margin-top: 10px;
+	font-family: Iosevka;
+	margin-left: 35px;
+	font-size: 25px;
+}
+
+.label-vol-side {
+	  color: #c47eb7;
+}
+*/
+.label-vol{
+	margin-top: 10px;
+	font-family: Iosevka;
+	margin-left: 35px;
+	font-size: 25px;
+	color: #c47eb7;
+}
+
+.slider-vol-box slider {
+	all: unset; 
+	color: #ffd5cd;
+}
+.slider-volume{
+	margin-top: 10px;
+}
+
+.slider-volume scale trough highlight {
+	all: unset;
+	background-color: #4c4cff;
+	color: #000000;
+	border-radius: 10px;
+}
+
+.slider-volume scale trough{
+	all: unset;
+	background-color: #26267f;
+	border-radius: 50px;
+	min-height: 5px;
+	min-width: 170px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+

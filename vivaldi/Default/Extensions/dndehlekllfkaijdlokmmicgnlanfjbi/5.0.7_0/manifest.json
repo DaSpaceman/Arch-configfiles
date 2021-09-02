@@ -1,0 +1,33 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "ext/uw-bg.js" ]
+   },
+   "browser_action": {
+      "default_popup": "popup/popup.html",
+      "default_title": "Ultrawidify"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "ext/uw-ui.css", "ext/uw.css" ],
+      "js": [ "common/lib/browser-polyfill.js", "ext/uw.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "description": "Removes black bars on ultrawide videos and offers advanced options to fix aspect ratio.",
+   "icons": {
+      "32": "res/icons/uw-32.png",
+      "64": "res/icons/uw-64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAubNqOmmavMtqYy9nQnQYvtAttcsj529hcD7jZnBxdZRT3v4RYTlu2NejRYILLQciEZgucBv6sy4MBVtk8AVcUPfz3Um2b0D4ctUTb0dLAjzq4sFojjFr/kjWJ7/cgVb+B63c9D8lCHAJ3NzcxHclhQHETpa56QfUWrKoQSg7fDtRtNTA+HaAMokLUjeE1UbmR0pwD4nMUM+nJ6y/Kdpd1cSVk4XuVZia7nQ3BITDp5omxXX26gbVyWeRWn0V9W8PYMQ5/aN8q89yWKDtAj1oUFws4Eenqm/yI4rqUVBljOFg9xh7YEeaBIrzc2Nc6mgZqlhEdyTYn8zn5d6MX3G36wIDAQAB",
+   "manifest_version": 2,
+   "name": "Ultrawidify",
+   "optional_permissions": [ "downloads" ],
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options/options.html"
+   },
+   "permissions": [ "storage", "activeTab", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.0.7",
+   "web_accessible_resources": [ "./*", "ext/*", "res/fonts/*", "res/css/*", "res/img/settings/about-bg.png", "res/icons/*", "res/img/*" ]
+}

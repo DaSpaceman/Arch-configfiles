@@ -1,0 +1,8 @@
+2021/09/01-17:56:04.435 6 Creating DB /home/fer/.config/vivaldi/Default/Session Storage since it was missing.
+2021/09/01-17:56:04.444 6 Reusing MANIFEST /home/fer/.config/vivaldi/Default/Session Storage/MANIFEST-000001
+2021/09/01-20:05:54.721 28 Level-0 table #5: started
+2021/09/01-20:05:54.732 28 Level-0 table #5: 21515 bytes OK
+2021/09/01-20:05:54.738 28 Delete type=0 #3
+2021/09/01-20:44:32.046 49 Level-0 table #7: started
+2021/09/01-20:44:32.053 49 Level-0 table #7: 20353 bytes OK
+2021/09/01-20:44:32.055 49 Delete type=0 #4

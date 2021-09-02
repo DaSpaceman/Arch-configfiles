@@ -1,0 +1,221 @@
+
+.jsonbg[data-v-db426300] {
+  background-color: #131313;
+}
+.jsonbg-error[data-v-db426300] {
+  background-color: #884420;
+}
+
+input[type="file"][data-v-1aaa67fa]{display:none}
+
+.uw-ultrawidify-container-root .action[data-v-7b9a5951]{cursor:pointer;position:relative;box-sizing:border-box}.uw-ultrawidify-container-root .action .command-details[data-v-7b9a5951]{height:0px;max-height:0px;transition:max-height 0.5s ease;overflow:hidden;transition:height 0.5s ease;position:absolute;top:0;right:0;width:50%}.uw-ultrawidify-container-root .action:hover .command-details[data-v-7b9a5951]{height:auto;max-height:200px;transition:max-height 0.5s ease}.uw-ultrawidify-container-root .command-details[data-v-7b9a5951]{position:absolute;top:0;right:0;width:50%}.uw-ultrawidify-container-root .action-name-cmd-container[data-v-7b9a5951],.uw-ultrawidify-container-root .p1rem[data-v-7b9a5951]{padding:1rem}.uw-ultrawidify-container-root .cd-pad[data-v-7b9a5951]{padding:0.5em}.uw-ultrawidify-container-root .action-name[data-v-7b9a5951]{font-size:1.5rem;font-weight:300;color:#ddd;width:50%}.uw-ultrawidify-container-root .action-name[data-v-7b9a5951]:hover,.uw-ultrawidify-container-root .action:hover .action-name[data-v-7b9a5951]{color:#fdb78e}.uw-ultrawidify-container-root .red[data-v-7b9a5951]{color:#fb772a !important}.uw-ultrawidify-container-root .cmd-container[data-v-7b9a5951]{width:13.37rem}.uw-ultrawidify-container-root .cmdlist[data-v-7b9a5951]{font-family:'Overpass Mono';font-size:0.9rem;color:#999}.uw-ultrawidify-container-root .bold[data-v-7b9a5951]{font-weight:600}.uw-ultrawidify-container-root .scope-scope[data-v-7b9a5951]{width:5rem;text-align:right !important;color:#e70c0c}.uw-ultrawidify-container-root .scope-visible[data-v-7b9a5951]{width:7rem}.uw-ultrawidify-container-root .scope-button-label[data-v-7b9a5951]{width:16rem}.uw-ultrawidify-container-root .scope-row-label[data-v-7b9a5951]{color:#666}.uw-ultrawidify-container-root .scope-row-highlight[data-v-7b9a5951]{color:#ddd}.uw-ultrawidify-container-root .transparent[data-v-7b9a5951]{opacity:0}
+
+.action-item-category-header[data-v-330cef5b]{margin-top:3rem;color:#fb772a;font-size:2.4rem;font-variant:small-caps;font-weight:600}
+
+.uw-ultrawidify-container-root .center-text[data-v-6f2ac5ee]{text-align:center}.uw-ultrawidify-container-root .dark[data-v-6f2ac5ee]{opacity:50%}
+
+.block-main[data-v-2b071d32]{border:1px solid #fb772a;min-width:10rem;padding-top:0.1rem;margin-left:0.5rem;margin-right:0.5rem}.button-action-display[data-v-2b071d32],.command-action[data-v-2b071d32],.order-button[data-v-2b071d32]{display:block;padding-left:1rem;padding-right:1rem;text-align:center}.button-action-display[data-v-2b071d32]{padding-top:0.1rem}
+
+
+.form-label {
+  width: 15rem;
+  text-align: left;
+  /* text-align: right; */
+  vertical-align: baseline;
+}
+.close-save-button-margin {
+  padding-top: 25px;
+}
+
+
+.new-command[data-v-231c9cc4]{color:#fb772a;height:100%;padding-left:2rem;padding-right:2rem;font-size:2rem}
+
+
+.shortcut-change-input[data-v-663f850d] {
+  background-color: transparent;
+  border: 0px solid transparent;
+  text-align: center;
+  width: 100%;
+}
+
+.cae-margin[data-v-6070ad94]{margin-top:20px}.full-screen[data-v-6070ad94]{background-color:rgba(0,0,0,0.5);display:flex;align-items:center;justify-content:center;width:100%;height:100%;position:absolute}.dialog-box[data-v-6070ad94]{background-color:rgba(0,0,0,0.9);max-width:130rem;max-height:42rem;padding-top:2rem;padding-left:3rem;padding-right:3rem}.window-title[data-v-6070ad94]{font-size:2.4rem;font-variant:small-caps;margin-bottom:1.69rem}.form-label[data-v-6070ad94]{width:16rem;text-align:left;vertical-align:baseline}.tab-title[data-v-6070ad94]{font-size:1.2em;color:#fdc7a7;padding-top:20px;padding-bottom:10px}.hint[data-v-6070ad94]{opacity:50% !important;font-weight:300}.w100[data-v-6070ad94]{width:100%}.button[data-v-6070ad94]{margin-left:1em;margin-right:1em;padding-left:1em;padding-right:1em;padding-top:0.4em;width:4em;text-align:center;background-color:rgba(0,0,0,0.66);color:#ffc;height:1.7em}.command-chain-border[data-v-6070ad94]{border:1px dotted #fbe8dc;padding:10px;padding-top:20px;padding-bottom:20px}.section-pad[data-v-6070ad94]{padding-top:35px}
+
+.full-screen[data-v-27f40cb3]{background-color:rgba(0,0,0,0.5);display:flex;align-items:center;justify-content:center;width:100%;height:100%;position:absolute}.dialog-box[data-v-27f40cb3]{background-color:rgba(0,0,0,0.9);max-width:130rem;max-height:42rem;padding-top:2rem;padding-left:3rem;padding-right:3rem}
+
+.form-label[data-v-70d5ec7e]{width:20rem;text-align:right;vertical-align:baseline}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-thin.woff2) format('woff2'); /* Super Modern Browsers */
+       font-weight: 200;
+       font-style: normal;
+}
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-thin-italic.woff2) format('woff2');
+       font-weight: 200;
+       font-style: italic;
+}
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-extralight.woff2) format('woff2');
+       font-weight: 300;
+       font-style: normal;
+}
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-extralight-italic.woff2) format('woff2');
+       font-weight: 300;
+       font-style: italic;
+}
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-light.woff2) format('woff2');
+       font-weight: 400;
+       font-style: normal;
+}
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-light-italic.woff2) format('woff2');
+       font-weight: 400;
+       font-style: italic;
+}
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-regular.woff2) format('woff2');
+       font-weight: 500;
+       font-style: normal;
+}
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-italic.woff2) format('woff2');
+       font-weight: 500;
+       font-style: italic;
+}
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-semibold.woff2) format('woff2');
+       font-weight: 600;
+       font-style: normal;
+}
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-semibold-italic.woff2) format('woff2');
+       font-weight: 600;
+       font-style: italic;
+}
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-bold.woff2) format('woff2');
+       font-weight: 700;
+       font-style: normal;
+}
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-bold-italic.woff2) format('woff2');
+       font-weight: 700;
+       font-style: italic;
+}
+
+.uw-ultrawidify-container-root .flex{display:flex}.uw-ultrawidify-container-root .flex-row{flex-direction:row}.uw-ultrawidify-container-root .flex-column{flex-direction:column}.uw-ultrawidify-container-root .flex-auto{flex:1 1 auto}.uw-ultrawidify-container-root .flex-grow{flex-grow:1}.uw-ultrawidify-container-root .flex-nogrow{flex-grow:0}.uw-ultrawidify-container-root .flex-shrink{flex-shrink:1}.uw-ultrawidify-container-root .flex-noshrink{flex-shrink:0}.uw-ultrawidify-container-root .flex-wrap{flex-wrap:wrap}.uw-ultrawidify-container-root .flex-center{align-content:center;align-items:center}.uw-ultrawidify-container-root .flex-end{justify-content:flex-end}.uw-ultrawidify-container-root .flex-cross-center{justify-content:center;justify-items:center}.uw-ultrawidify-container-root .flex-self-center{align-self:center}
+
+@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-thin.woff2") format("woff2");font-weight:200;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-thin-italic.woff2") format("woff2");font-weight:200;font-style:italic}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-extralight.woff2") format("woff2");font-weight:300;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-extralight-italic.woff2") format("woff2");font-weight:300;font-style:italic}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-light.woff2") format("woff2");font-weight:400;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-light-italic.woff2") format("woff2");font-weight:400;font-style:italic}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-regular.woff2") format("woff2");font-weight:500;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-italic.woff2") format("woff2");font-weight:500;font-style:italic}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-semibold.woff2") format("woff2");font-weight:600;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-semibold-italic.woff2") format("woff2");font-weight:600;font-style:italic}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-bold.woff2") format("woff2");font-weight:700;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-bold-italic.woff2") format("woff2");font-weight:700;font-style:italic}@font-face{font-family:'Overpass mono';src:url("/res/fonts/overpass-mono-webfont/overpass-mono-light.woff2") format("woff2");font-weight:300;font-style:normal}@font-face{font-family:'Overpass mono';src:url("/res/fonts/overpass-mono-webfont/overpass-mono-regular.woff2") format("woff2");font-weight:400;font-style:normal}@font-face{font-family:'Overpass mono';src:url("/res/fonts/overpass-mono-webfont/overpass-mono-semibold.woff2") format("woff2");font-weight:500;font-style:normal}@font-face{font-family:'Overpass mono';src:url("/res/fonts/overpass-mono-webfont/overpass-mono-bold.woff2") format("woff2");font-weight:600;font-style:normal}.uw-ultrawidify-container-root .flex{display:flex}.uw-ultrawidify-container-root .flex-row{flex-direction:row}.uw-ultrawidify-container-root .flex-column{flex-direction:column}.uw-ultrawidify-container-root .flex-auto{flex:1 1 auto}.uw-ultrawidify-container-root .flex-grow{flex-grow:1}.uw-ultrawidify-container-root .flex-nogrow{flex-grow:0}.uw-ultrawidify-container-root .flex-shrink{flex-shrink:1}.uw-ultrawidify-container-root .flex-noshrink{flex-shrink:0}.uw-ultrawidify-container-root .flex-wrap{flex-wrap:wrap}.uw-ultrawidify-container-root .flex-center{align-content:center;align-items:center}.uw-ultrawidify-container-root .flex-end{justify-content:flex-end}.uw-ultrawidify-container-root .flex-cross-center{justify-content:center;justify-items:center}.uw-ultrawidify-container-root .flex-self-center{align-self:center}body{background-color:#101010;color:#ddd;font-family:'Overpass', sans-serif;font-size:1.2em;width:100%;min-height:100%;height:100vh;border:0px;margin:0px;padding:0px}.uw-ultrawidify-container-root .w100{width:100%}.uw-ultrawidify-container-root .h100{height:100%}.uw-ultrawidify-container-root .w24{width:100px}.uw-ultrawidify-container-root .m-t-0-33em{margin-top:0.33em}.uw-ultrawidify-container-root .x-pad-1em{padding-left:1em;padding-right:1em}.uw-ultrawidify-container-root .overflow-y-auto{overflow:auto;scrollbar-width:thin;scrollbar-color:rgba(251,119,42,0.7) #101010}.uw-ultrawidify-container-root .scrollbar-darker{scrollbar-color:rgba(251,119,42,0.5) #101010}.uw-ultrawidify-container-root .overflow-y-auto::-webkit-scrollbar{width:3px}.uw-ultrawidify-container-root .overflow-y-auto::-webkit-scrollbar-track{background:#101010}.uw-ultrawidify-container-root .overflow-y-auto::-webkit-scrollbar-thumb{background:rgba(251,119,42,0.7)}.uw-ultrawidify-container-root .overflow-y-auto::-webkit-scrollbar-button{display:none}.uw-ultrawidify-container-root .scrollbar-darker::-webkit-scrollbar-thumb{background:rgba(251,119,42,0.5)}.uw-ultrawidify-container-root .no-overflow{overflow:hidden}.uw-ultrawidify-container-root .no-overflow-x{overflow-x:hidden}.uw-ultrawidify-container-root .no-overflow-y{overflow-y:hidden}.uw-ultrawidify-container-root .selected-tab{background-color:initial;border-left:#fb772a 5px solid}.uw-ultrawidify-container-root .selected-tab-secondary{background-color:initial;border-left:#e70c0c 3px solid !important}.uw-ultrawidify-container-root .description{color:#999;font-size:1rem}.uw-ultrawidify-container-root .label{padding-top:1.5rem;font-size:1.5rem;font-variant:small-caps;font-weight:600}.uw-ultrawidify-container-root .label-secondary{font-weight:600}.uw-ultrawidify-container-root .button-box{padding-top:0.69rem;padding-bottom:0.69rem}.uw-ultrawidify-container-root .indent{padding-left:4.2rem}.uw-ultrawidify-container-root .row-padding{padding-top:0.69rem;padding-bottom:0.69rem}.uw-ultrawidify-container-root a,.uw-ultrawidify-container-root a:visited{color:#fb772a}.uw-ultrawidify-container-root a:hover{color:#fc975c}.uw-ultrawidify-container-root input[type="number"],.uw-ultrawidify-container-root input[type="text"],.uw-ultrawidify-container-root input{outline:none;background-color:#141414;color:#ddd;padding:0.1rem;padding-top:0.2rem;padding-bottom:0.1rem;margin-left:1rem;border:1px solid #4e3527}.uw-ultrawidify-container-root input:disabled{background:#444444;color:#5e5e5e}.uw-ultrawidify-container-root .row{display:block;margin-top:20px;margin-bottom:10px}.uw-ultrawidify-container-root .button-row{display:block;margin-top:5px;margin-bottom:10px}.uw-ultrawidify-container-root .float-left{float:left}.uw-ultrawidify-container-root .float-right{float:right}.uw-ultrawidify-container-root .inline-block{display:inline-block}.uw-ultrawidify-container-root .block{display:block}.uw-ultrawidify-container-root .hidden{display:none !important}.uw-ultrawidify-container-root .hide{display:none !important}.uw-ultrawidify-container-root small{font-size:0.75em;font-weight:200}.uw-ultrawidify-container-root .small{font-size:0.75em;font-weight:200}.uw-ultrawidify-container-root .medium-small{font-size:0.85em;font-weight:200}.uw-ultrawidify-container-root .smallcaps{font-variant:small-caps}.uw-ultrawidify-container-root .center{text-align:center;width:100%}.uw-ultrawidify-container-root .text-center{text-align:center}.uw-ultrawidify-container-root .invalid-input{border:1px solid #720 !important;background-color:#410 !important}.uw-ultrawidify-container-root .button{border:1px solid #272727;margin-top:3px;margin-bottom:3px;color:#999;text-align:center;cursor:pointer;user-select:none}.uw-ultrawidify-container-root .selected,.uw-ultrawidify-container-root .setting-selected{color:#f5cbaf !important;background-color:#412d20 !important}.uw-ultrawidify-container-root .selected-tab{color:#f5cbaf}.uw-ultrawidify-container-root .setting-selected{border:1px solid shade(#f5cbaf, 25%)}.uw-ultrawidify-container-root .button:hover{color:#fbe8dc;background-color:#634531}.uw-ultrawidify-container-root .disabled{pointer-events:none;filter:contrast(50%) brightness(40%) grayscale(100%)}.uw-ultrawidify-container-root .disabled-button{color:#666 !important;cursor:not-allowed !important}.uw-ultrawidify-container-root .disabled-button:hover{color:#777 !important;background-color:#222 !important}.uw-ultrawidify-container-root .disabled-edge{pointer-events:none !important;filter:contrast(50%) brightness(40%) grayscale(100%) !important;content:"NOT SUPPORTED IN THIS BROWSER"}.uw-ultrawidify-container-root .disabled-edge::after{background-color:#333272;color:#d8d9e6;display:inline-block;font-size:.75em;font-variant:small-caps;padding-left:5px;padding-right:5px;margin-left:10px}.uw-ultrawidify-container-root .warning-color{color:#d6ba4a}.uw-ultrawidify-container-root .warning,.uw-ultrawidify-container-root .warning-lite{color:#d6ba4a;padding-left:35px;float:right}.uw-ultrawidify-container-root .warning::before,.uw-ultrawidify-container-root .warning-lite::before{content:"\26A0   ";display:inline-block}.uw-ultrawidify-container-root .warning::before{font-weight:bold;font-size:2.5em;margin-left:-35px;padding-right:10px}.uw-ultrawidify-container-root .info{color:#bda9f3;padding-left:35px;float:right}.uw-ultrawidify-container-root .info::before{content:"\24D8";display:inline-block;font-weight:bold;margin-left:-35px;padding-right:10px}.uw-ultrawidify-container-root .new{color:#fff}.uw-ultrawidify-container-root .new::after{content:"\24D8";color:#bda9f3 !important;display:inline-block;font-weight:bold;padding-right:10px}.uw-ultrawidify-container-root .experimental::after{content:"\24BA";color:#ffde12;display:inline-block;font-size:.75em;font-variant:small-caps;padding-left:5px;padding-right:5px;margin-left:10px;margin-top:-4px}.uw-ultrawidify-container-root .experimental:hover::after{content:"\24BA   Experimental";color:#ffde12;display:inline-block;font-size:.75em;font-variant:small-caps;padding-left:5px;padding-right:5px;margin-left:10px;margin-top:-4px}.uw-ultrawidify-container-root .sticky-bottom{width:100%;position:sticky;bottom:0px;background-color:rgba(16,16,16,0.7)}.uw-ultrawidify-container-root .rtl{direction:rtl}.uw-ultrawidify-container-root .ltr{direction:ltr}.uw-ultrawidify-container-root .monospace{font-family:'Overpass Mono'}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-thin.woff2) format('woff2'); /* Super Modern Browsers */
+       font-weight: 200;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-thin-italic.woff2) format('woff2');
+       font-weight: 200;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-extralight.woff2) format('woff2');
+       font-weight: 300;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-extralight-italic.woff2) format('woff2');
+       font-weight: 300;
+       font-style: italic;
+}
+
+
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-light.woff2) format('woff2');
+       font-weight: 400;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-light-italic.woff2) format('woff2');
+       font-weight: 400;
+       font-style: italic;
+}
+
+
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-regular.woff2) format('woff2');
+       font-weight: 500;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-italic.woff2) format('woff2');
+       font-weight: 500;
+       font-style: italic;
+}
+
+
+
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-semibold.woff2) format('woff2');
+       font-weight: 600;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-semibold-italic.woff2) format('woff2');
+       font-weight: 600;
+       font-style: italic;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-bold.woff2) format('woff2');
+       font-weight: 700;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src: url(res/fonts/overpass-webfont/overpass-bold-italic.woff2) format('woff2');
+       font-weight: 700;
+       font-style: italic;
+}
+
+@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-thin.woff2") format("woff2");font-weight:200;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-thin-italic.woff2") format("woff2");font-weight:200;font-style:italic}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-extralight.woff2") format("woff2");font-weight:300;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-extralight-italic.woff2") format("woff2");font-weight:300;font-style:italic}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-light.woff2") format("woff2");font-weight:400;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-light-italic.woff2") format("woff2");font-weight:400;font-style:italic}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-regular.woff2") format("woff2");font-weight:500;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-italic.woff2") format("woff2");font-weight:500;font-style:italic}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-semibold.woff2") format("woff2");font-weight:600;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-semibold-italic.woff2") format("woff2");font-weight:600;font-style:italic}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-bold.woff2") format("woff2");font-weight:700;font-style:normal}@font-face{font-family:'Overpass';src:url("/res/fonts/overpass-webfont/overpass-bold-italic.woff2") format("woff2");font-weight:700;font-style:italic}@font-face{font-family:'Overpass mono';src:url("/res/fonts/overpass-mono-webfont/overpass-mono-light.woff2") format("woff2");font-weight:300;font-style:normal}@font-face{font-family:'Overpass mono';src:url("/res/fonts/overpass-mono-webfont/overpass-mono-regular.woff2") format("woff2");font-weight:400;font-style:normal}@font-face{font-family:'Overpass mono';src:url("/res/fonts/overpass-mono-webfont/overpass-mono-semibold.woff2") format("woff2");font-weight:500;font-style:normal}@font-face{font-family:'Overpass mono';src:url("/res/fonts/overpass-mono-webfont/overpass-mono-bold.woff2") format("woff2");font-weight:600;font-style:normal}.uw-ultrawidify-container-root .flex{display:flex}.uw-ultrawidify-container-root .flex-row{flex-direction:row}.uw-ultrawidify-container-root .flex-column{flex-direction:column}.uw-ultrawidify-container-root .flex-auto{flex:1 1 auto}.uw-ultrawidify-container-root .flex-grow{flex-grow:1}.uw-ultrawidify-container-root .flex-nogrow{flex-grow:0}.uw-ultrawidify-container-root .flex-shrink{flex-shrink:1}.uw-ultrawidify-container-root .flex-noshrink{flex-shrink:0}.uw-ultrawidify-container-root .flex-wrap{flex-wrap:wrap}.uw-ultrawidify-container-root .flex-center{align-content:center;align-items:center}.uw-ultrawidify-container-root .flex-end{justify-content:flex-end}.uw-ultrawidify-container-root .flex-cross-center{justify-content:center;justify-items:center}.uw-ultrawidify-container-root .flex-self-center{align-self:center}body{background-color:#101010;color:#ddd;font-family:'Overpass', sans-serif;font-size:1.2em;width:100%;min-height:100%;height:100vh;border:0px;margin:0px;padding:0px}.uw-ultrawidify-container-root .w100{width:100%}.uw-ultrawidify-container-root .h100{height:100%}.uw-ultrawidify-container-root .w24{width:100px}.uw-ultrawidify-container-root .m-t-0-33em{margin-top:0.33em}.uw-ultrawidify-container-root .x-pad-1em{padding-left:1em;padding-right:1em}.uw-ultrawidify-container-root .overflow-y-auto{overflow:auto;scrollbar-width:thin;scrollbar-color:rgba(251,119,42,0.7) #101010}.uw-ultrawidify-container-root .scrollbar-darker{scrollbar-color:rgba(251,119,42,0.5) #101010}.uw-ultrawidify-container-root .overflow-y-auto::-webkit-scrollbar{width:3px}.uw-ultrawidify-container-root .overflow-y-auto::-webkit-scrollbar-track{background:#101010}.uw-ultrawidify-container-root .overflow-y-auto::-webkit-scrollbar-thumb{background:rgba(251,119,42,0.7)}.uw-ultrawidify-container-root .overflow-y-auto::-webkit-scrollbar-button{display:none}.uw-ultrawidify-container-root .scrollbar-darker::-webkit-scrollbar-thumb{background:rgba(251,119,42,0.5)}.uw-ultrawidify-container-root .no-overflow{overflow:hidden}.uw-ultrawidify-container-root .no-overflow-x{overflow-x:hidden}.uw-ultrawidify-container-root .no-overflow-y{overflow-y:hidden}.uw-ultrawidify-container-root .selected-tab{background-color:initial;border-left:#fb772a 5px solid}.uw-ultrawidify-container-root .selected-tab-secondary{background-color:initial;border-left:#e70c0c 3px solid !important}.uw-ultrawidify-container-root .description{color:#999;font-size:1rem}.uw-ultrawidify-container-root .label{padding-top:1.5rem;font-size:1.5rem;font-variant:small-caps;font-weight:600}.uw-ultrawidify-container-root .label-secondary{font-weight:600}.uw-ultrawidify-container-root .button-box{padding-top:0.69rem;padding-bottom:0.69rem}.uw-ultrawidify-container-root .indent{padding-left:4.2rem}.uw-ultrawidify-container-root .row-padding{padding-top:0.69rem;padding-bottom:0.69rem}.uw-ultrawidify-container-root a,.uw-ultrawidify-container-root a:visited{color:#fb772a}.uw-ultrawidify-container-root a:hover{color:#fc975c}.uw-ultrawidify-container-root input[type="number"],.uw-ultrawidify-container-root input[type="text"],.uw-ultrawidify-container-root input{outline:none;background-color:#141414;color:#ddd;padding:0.1rem;padding-top:0.2rem;padding-bottom:0.1rem;margin-left:1rem;border:1px solid #4e3527}.uw-ultrawidify-container-root input:disabled{background:#444444;color:#5e5e5e}.uw-ultrawidify-container-root .row{display:block;margin-top:20px;margin-bottom:10px}.uw-ultrawidify-container-root .button-row{display:block;margin-top:5px;margin-bottom:10px}.uw-ultrawidify-container-root .float-left{float:left}.uw-ultrawidify-container-root .float-right{float:right}.uw-ultrawidify-container-root .inline-block{display:inline-block}.uw-ultrawidify-container-root .block{display:block}.uw-ultrawidify-container-root .hidden{display:none !important}.uw-ultrawidify-container-root .hide{display:none !important}.uw-ultrawidify-container-root small{font-size:0.75em;font-weight:200}.uw-ultrawidify-container-root .small{font-size:0.75em;font-weight:200}.uw-ultrawidify-container-root .medium-small{font-size:0.85em;font-weight:200}.uw-ultrawidify-container-root .smallcaps{font-variant:small-caps}.uw-ultrawidify-container-root .center{text-align:center;width:100%}.uw-ultrawidify-container-root .text-center{text-align:center}.uw-ultrawidify-container-root .invalid-input{border:1px solid #720 !important;background-color:#410 !important}.uw-ultrawidify-container-root .button{border:1px solid #272727;margin-top:3px;margin-bottom:3px;color:#999;text-align:center;cursor:pointer;user-select:none}.uw-ultrawidify-container-root .selected,.uw-ultrawidify-container-root .setting-selected{color:#f5cbaf !important;background-color:#412d20 !important}.uw-ultrawidify-container-root .selected-tab{color:#f5cbaf}.uw-ultrawidify-container-root .setting-selected{border:1px solid shade(#f5cbaf, 25%)}.uw-ultrawidify-container-root .button:hover{color:#fbe8dc;background-color:#634531}.uw-ultrawidify-container-root .disabled{pointer-events:none;filter:contrast(50%) brightness(40%) grayscale(100%)}.uw-ultrawidify-container-root .disabled-button{color:#666 !important;cursor:not-allowed !important}.uw-ultrawidify-container-root .disabled-button:hover{color:#777 !important;background-color:#222 !important}.uw-ultrawidify-container-root .disabled-edge{pointer-events:none !important;filter:contrast(50%) brightness(40%) grayscale(100%) !important;content:"NOT SUPPORTED IN THIS BROWSER"}.uw-ultrawidify-container-root .disabled-edge::after{background-color:#333272;color:#d8d9e6;display:inline-block;font-size:.75em;font-variant:small-caps;padding-left:5px;padding-right:5px;margin-left:10px}.uw-ultrawidify-container-root .warning-color{color:#d6ba4a}.uw-ultrawidify-container-root .warning,.uw-ultrawidify-container-root .warning-lite{color:#d6ba4a;padding-left:35px;float:right}.uw-ultrawidify-container-root .warning::before,.uw-ultrawidify-container-root .warning-lite::before{content:"\26A0   ";display:inline-block}.uw-ultrawidify-container-root .warning::before{font-weight:bold;font-size:2.5em;margin-left:-35px;padding-right:10px}.uw-ultrawidify-container-root .info{color:#bda9f3;padding-left:35px;float:right}.uw-ultrawidify-container-root .info::before{content:"\24D8";display:inline-block;font-weight:bold;margin-left:-35px;padding-right:10px}.uw-ultrawidify-container-root .new{color:#fff}.uw-ultrawidify-container-root .new::after{content:"\24D8";color:#bda9f3 !important;display:inline-block;font-weight:bold;padding-right:10px}.uw-ultrawidify-container-root .experimental::after{content:"\24BA";color:#ffde12;display:inline-block;font-size:.75em;font-variant:small-caps;padding-left:5px;padding-right:5px;margin-left:10px;margin-top:-4px}.uw-ultrawidify-container-root .experimental:hover::after{content:"\24BA   Experimental";color:#ffde12;display:inline-block;font-size:.75em;font-variant:small-caps;padding-left:5px;padding-right:5px;margin-left:10px;margin-top:-4px}.uw-ultrawidify-container-root .sticky-bottom{width:100%;position:sticky;bottom:0px;background-color:rgba(16,16,16,0.7)}.uw-ultrawidify-container-root .rtl{direction:rtl}.uw-ultrawidify-container-root .ltr{direction:ltr}.uw-ultrawidify-container-root .monospace{font-family:'Overpass Mono'}body{background-image:url("/res/img/settings/bg_random2.png");background-size:25em;text-align:center;z-index:-1000}.header{width:42rem;height:100vh;position:fixed}.content-area{width:100%;padding-left:42rem;text-align:center}.text-sink-anchor{position:relative}.text-sink{position:absolute;bottom:0px}.title-sink-pad{padding-bottom:1.69rem}.extension-name{font-size:4.20rem;height:7.7rem;text-align:center}.menu{font-size:1.9rem;font-variant:small-caps}.content-title{font-size:3.3rem;height:7.7rem}.content-content{width:100%;max-width:96rem;display:inline-block;margin:0 auto;text-align:left}.block{display:inline-block;margin-left:1em;margin-right:1em}.tabline{background-color:#000;width:100%;margin-bottom:1.5em;padding-top:0.3em;padding-bottom:0.4em;z-index:-200}.dup_keybinds{background-color:#720 !important}.uw_shortcuts_line{padding-top:0.25em;padding-left:5em}.uw_shortcuts_label{display:inline-block;color:#fff;width:17.5em}.uw_options_line{margin-top:0.75em;font-size:1.1em;width:80%;margin-left:5%}.uw_options_option{margin-left:5%}.uw_suboption{margin-left:5em;margin-top:0.75em;font-size:0.85em}.uw_options_desc,.uw_suboption_desc{margin-top:0.33em;font-size:0.69em;color:#aaa}.uw_suboption_desc{margin-left:5em}.buttonbar{padding-left:20em;margin-bottom:2em}.button{display:inline-block;margin-left:1em;margin-right:1em;padding-left:1em;padding-right:1em;padding-top:0.4em;width:4em;text-align:center;background-color:rgba(0,0,0,0.66);color:#ffc;height:1.7em}.monospace{font-family:'Overpass Mono', monospace}.center-text{text-align:center}.site_name{padding-left:1em;padding-bottom:0.3em;color:#fff;font-size:1.1em;height:13em !important}.site_details{font-size:0.8em}.site_title_ebox{width:10em !important;font-size:1.5em !important;background-color:rgba(0,0,0,0) !important;margin-left:0px !important;border:0px !important;color:#ffc !important}.details_ebox{width:12em !important;background-color:rgba(0,0,0,0) !important;border:0px !important;color:#ffc !important;margin-left:0em !important}.details_ebox:disabled{color:#aaa !important}.checkbox-center{text-align:center}.checkbox-container{display:inline-block;position:relative;padding-left:35px;margin-bottom:12px;font-size:22px}.checkbox{position:absolute;top:0;left:0;height:25px;width:25px}.checkbox-checked{position:absolute;left:9px;top:5px;width:5px;height:10px;border:solid #f5913f;border-width:0 3px 3px 0;transform:rotate(45deg)}.action-item-category-label{color:#f5913f;font-size:2em;font-weight:200;margin-bottom:0px;padding-bottom:0px;padding-top:1em}.action-item-table-header{color:#f5913f}.action-item-table-header-small{color:#f5913f;font-size:0.85em !important;font-weight:300 !important}.action-list-item:hover{background-color:rgba(254,146,63,0.15)}
+
+.popup-container[data-v-1951c677]{position:fixed;width:100%;height:100%;z-index:1000;display:flex;justify-content:center;align-content:center}.blur[data-v-1951c677]{filter:blur(2px)}
+
+
+/*# sourceMappingURL=options.css.map*/

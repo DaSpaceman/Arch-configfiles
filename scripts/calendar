@@ -1,0 +1,5 @@
+#!/bin/bash
+source /home/fer/aurpackages/gcalcli/gcalenv/bin/activate
+EVENT="$(gcalcli --nocolor agenda today)"
+echo $EVENT
+deactivate
