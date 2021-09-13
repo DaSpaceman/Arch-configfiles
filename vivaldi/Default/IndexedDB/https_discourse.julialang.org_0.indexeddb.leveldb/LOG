@@ -1,0 +1,6 @@
+2021/09/03-02:05:45.960 21676 Creating DB /home/fer/.config/vivaldi/Default/IndexedDB/https_discourse.julialang.org_0.indexeddb.leveldb since it was missing.
+2021/09/03-02:05:45.971 21676 Reusing MANIFEST /home/fer/.config/vivaldi/Default/IndexedDB/https_discourse.julialang.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/03-02:06:34.721 21694 Level-0 table #5: started
+2021/09/03-02:06:34.724 21694 Level-0 table #5: 4743 bytes OK
+2021/09/03-02:06:34.727 21694 Delete type=0 #3
+2021/09/03-02:06:34.727 21694 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

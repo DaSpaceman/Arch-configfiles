@@ -1,2 +1,3 @@
-2021/09/01-17:56:06.581 8fc5 Creating DB /home/fer/.config/vivaldi/Default/data_reduction_proxy_leveldb since it was missing.
-2021/09/01-17:56:06.591 8fc5 Delete type=3 #1
+2021/09/13-16:08:19.715 1c46 Recovering log #51
+2021/09/13-16:08:19.721 1c46 Delete type=3 #50
+2021/09/13-16:08:19.721 1c46 Delete type=0 #51

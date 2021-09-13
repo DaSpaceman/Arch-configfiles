@@ -1,2 +1,3 @@
-2021/09/01-17:57:17.118 6 Creating DB /home/fer/.config/vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Session Storage since it was missing.
-2021/09/01-17:57:17.124 6 Reusing MANIFEST /home/fer/.config/vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Session Storage/MANIFEST-000001
+2021/09/10-00:46:02.078 e Reusing MANIFEST /home/fer/.config/vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Session Storage/MANIFEST-000001
+2021/09/10-00:46:02.079 e Recovering log #3
+2021/09/10-00:46:02.080 e Reusing old log /home/fer/.config/vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Session Storage/000003.log 

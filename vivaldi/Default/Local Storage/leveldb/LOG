@@ -1,30 +1,6 @@
-2021/09/02-10:50:42.987 3 Reusing MANIFEST /home/fer/.config/vivaldi/Default/Local Storage/leveldb/MANIFEST-000001
-2021/09/02-10:50:42.987 3 Recovering log #32
-2021/09/02-10:50:42.988 3 Reusing old log /home/fer/.config/vivaldi/Default/Local Storage/leveldb/000032.log 
-2021/09/02-10:55:29.419 3 Level-0 table #37: started
-2021/09/02-10:55:29.434 3 Level-0 table #37: 90662 bytes OK
-2021/09/02-10:55:29.439 3 Delete type=0 #32
-2021/09/02-10:55:43.027 7 Level-0 table #39: started
-2021/09/02-10:55:43.038 7 Level-0 table #39: 82640 bytes OK
-2021/09/02-10:55:43.041 7 Delete type=0 #36
-2021/09/02-11:00:07.763 c Level-0 table #41: started
-2021/09/02-11:00:07.777 c Level-0 table #41: 85314 bytes OK
-2021/09/02-11:00:07.783 c Delete type=0 #38
-2021/09/02-11:08:07.355 c Level-0 table #43: started
-2021/09/02-11:08:07.369 c Level-0 table #43: 80095 bytes OK
-2021/09/02-11:08:07.375 c Delete type=0 #40
-2021/09/02-11:08:07.376 c Compacting 4@0 + 1@1 files
-2021/09/02-11:08:07.388 c Generated table #44@0: 132 keys, 89465 bytes
-2021/09/02-11:08:07.388 c Compacted 4@0 + 1@1 files => 89465 bytes
-2021/09/02-11:08:07.391 c compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/09/02-11:08:07.393 c Delete type=2 #34
-2021/09/02-11:08:07.394 c Delete type=2 #41
-2021/09/02-11:08:07.394 c Delete type=2 #39
-2021/09/02-11:08:07.394 c Delete type=2 #43
-2021/09/02-11:08:07.395 c Delete type=2 #37
-2021/09/02-11:42:31.842 1a Level-0 table #46: started
-2021/09/02-11:42:31.856 1a Level-0 table #46: 18766 bytes OK
-2021/09/02-11:42:31.859 1a Delete type=0 #42
-2021/09/02-11:56:32.542 27 Level-0 table #48: started
-2021/09/02-11:56:32.548 27 Level-0 table #48: 22463 bytes OK
-2021/09/02-11:56:32.551 27 Delete type=0 #45
+2021/09/13-18:28:09.374 3 Reusing MANIFEST /home/fer/.config/vivaldi/Default/Local Storage/leveldb/MANIFEST-000001
+2021/09/13-18:28:09.375 3 Recovering log #197
+2021/09/13-18:28:09.375 3 Reusing old log /home/fer/.config/vivaldi/Default/Local Storage/leveldb/000197.log 
+2021/09/13-18:28:59.810 3 Level-0 table #201: started
+2021/09/13-18:28:59.819 3 Level-0 table #201: 95279 bytes OK
+2021/09/13-18:28:59.824 3 Delete type=0 #197

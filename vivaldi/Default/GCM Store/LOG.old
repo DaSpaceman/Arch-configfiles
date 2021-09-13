@@ -1,2 +1,3 @@
-2021/09/01-17:56:58.303 8fbd Creating DB /home/fer/.config/vivaldi/Default/GCM Store since it was missing.
-2021/09/01-17:56:58.309 8fbd Reusing MANIFEST /home/fer/.config/vivaldi/Default/GCM Store/MANIFEST-000001
+2021/09/13-16:08:19.721 1c46 Reusing MANIFEST /home/fer/.config/vivaldi/Default/GCM Store/MANIFEST-000001
+2021/09/13-16:08:19.722 1c46 Recovering log #3
+2021/09/13-16:08:19.722 1c46 Reusing old log /home/fer/.config/vivaldi/Default/GCM Store/000003.log 

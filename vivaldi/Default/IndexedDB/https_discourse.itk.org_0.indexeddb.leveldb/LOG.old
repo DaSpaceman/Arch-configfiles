@@ -1,0 +1,15 @@
+2021/09/10-21:17:05.939 97427 Reusing MANIFEST /home/fer/.config/vivaldi/Default/IndexedDB/https_discourse.itk.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/10-21:17:05.939 97427 Recovering log #4
+2021/09/10-21:17:05.939 97427 Reusing old log /home/fer/.config/vivaldi/Default/IndexedDB/https_discourse.itk.org_0.indexeddb.leveldb/000004.log 
+2021/09/10-21:18:08.239 95564 Level-0 table #8: started
+2021/09/10-21:18:08.245 95564 Level-0 table #8: 63820 bytes OK
+2021/09/10-21:18:08.248 95564 Delete type=0 #4
+2021/09/10-21:18:08.249 95564 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/09/10-21:18:08.249 95564 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xd0\x99(\x19\xbdwB\x00\x01n\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00.\x00i\x00t\x00k\x00.\x00o\x00r\x00g\x00/\x00u\x00p\x00l\x00o\x00a\x00d\x00s\x00/\x00d\x00e\x00f\x00a\x00u\x00l\x00t\x00/\x00o\x00r\x00i\x00g\x00i\x00n\x00a\x00l\x00/\x001\x00X\x00/\x003\x001\x00e\x007\x00b\x00b\x007\x006\x004\x00a\x00e\x00f\x000\x00c\x005\x00f\x001\x004\x004\x004\x003\x00b\x009\x000\x005\x00f\x006\x00b\x001\x001\x00f\x007\x001\x00e\x00f\x00f\x00e\x00c\x00e\x000\x00.\x00p\x00n\x00g' @ 1829 : 1
+2021/09/10-21:18:08.249 95564 Compacting 1@1 + 1@2 files
+2021/09/10-21:18:08.256 95564 Generated table #9@1: 259 keys, 30740 bytes
+2021/09/10-21:18:08.256 95564 Compacted 1@1 + 1@2 files => 30740 bytes
+2021/09/10-21:18:08.258 95564 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/10-21:18:08.259 95564 Delete type=2 #5
+2021/09/10-21:18:08.259 95564 Delete type=2 #8
+2021/09/10-21:18:08.260 95564 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xd0\x99(\x19\xbdwB\x00\x01n\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00.\x00i\x00t\x00k\x00.\x00o\x00r\x00g\x00/\x00u\x00p\x00l\x00o\x00a\x00d\x00s\x00/\x00d\x00e\x00f\x00a\x00u\x00l\x00t\x00/\x00o\x00r\x00i\x00g\x00i\x00n\x00a\x00l\x00/\x001\x00X\x00/\x003\x001\x00e\x007\x00b\x00b\x007\x006\x004\x00a\x00e\x00f\x000\x00c\x005\x00f\x001\x004\x004\x004\x003\x00b\x009\x000\x005\x00f\x006\x00b\x001\x001\x00f\x007\x001\x00e\x00f\x00f\x00e\x00c\x00e\x000\x00.\x00p\x00n\x00g' @ 1829 : 1 .. (end); will stop at (end)

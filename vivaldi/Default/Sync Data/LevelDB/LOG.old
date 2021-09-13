@@ -1,74 +1,16 @@
-2021/09/01-17:56:04.416 8fa3 Creating DB /home/fer/.config/vivaldi/Default/Sync Data/LevelDB since it was missing.
-2021/09/01-17:56:04.425 8fa3 Reusing MANIFEST /home/fer/.config/vivaldi/Default/Sync Data/LevelDB/MANIFEST-000001
-2021/09/01-17:57:49.029 8fa4 Level-0 table #5: started
-2021/09/01-17:57:49.036 8fa4 Level-0 table #5: 1223575 bytes OK
-2021/09/01-17:57:49.038 8fa4 Delete type=0 #3
-2021/09/01-18:05:13.658 950a Level-0 table #7: started
-2021/09/01-18:05:13.672 950a Level-0 table #7: 356463 bytes OK
-2021/09/01-18:05:13.674 950a Delete type=0 #4
-2021/09/01-18:08:50.240 96f6 Level-0 table #9: started
-2021/09/01-18:08:50.266 96f6 Level-0 table #9: 361070 bytes OK
-2021/09/01-18:08:50.268 96f6 Delete type=0 #6
-2021/09/01-18:40:42.269 a467 Level-0 table #11: started
-2021/09/01-18:40:42.283 a467 Level-0 table #11: 294860 bytes OK
-2021/09/01-18:40:42.285 a467 Delete type=0 #8
-2021/09/01-18:44:44.545 a2a1 Level-0 table #13: started
-2021/09/01-18:44:44.559 a2a1 Level-0 table #13: 357970 bytes OK
-2021/09/01-18:44:44.561 a2a1 Delete type=0 #10
-2021/09/01-18:53:08.859 a7b4 Level-0 table #15: started
-2021/09/01-18:53:08.872 a7b4 Level-0 table #15: 304246 bytes OK
-2021/09/01-18:53:08.874 a7b4 Delete type=0 #12
-2021/09/01-18:53:08.874 a7b4 Compacting 4@0 + 1@1 files
-2021/09/01-18:53:08.878 a7b4 Generated table #16@0: 64 keys, 105919 bytes
-2021/09/01-18:53:08.878 a7b4 Compacted 4@0 + 1@1 files => 105919 bytes
-2021/09/01-18:53:08.880 a7b4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/09/01-18:53:08.880 a7b4 Delete type=2 #7
-2021/09/01-18:53:08.880 a7b4 Delete type=2 #13
-2021/09/01-18:53:08.880 a7b4 Delete type=2 #11
-2021/09/01-18:53:08.880 a7b4 Delete type=2 #9
-2021/09/01-18:53:08.880 a7b4 Delete type=2 #15
-2021/09/01-20:09:37.354 cbfa Level-0 table #18: started
-2021/09/01-20:09:37.367 cbfa Level-0 table #18: 311852 bytes OK
-2021/09/01-20:09:37.370 cbfa Delete type=0 #14
-2021/09/01-20:16:57.735 cf91 Level-0 table #20: started
-2021/09/01-20:16:57.738 cf91 Level-0 table #20: 336284 bytes OK
-2021/09/01-20:16:57.740 cf91 Delete type=0 #17
-2021/09/01-20:21:11.233 d00d Level-0 table #22: started
-2021/09/01-20:21:11.243 d00d Level-0 table #22: 466412 bytes OK
-2021/09/01-20:21:11.245 d00d Delete type=0 #19
-2021/09/01-20:23:31.304 d063 Level-0 table #24: started
-2021/09/01-20:23:31.313 d063 Level-0 table #24: 491017 bytes OK
-2021/09/01-20:23:31.316 d063 Delete type=0 #21
-2021/09/01-20:23:31.316 d063 Compacting 4@0 + 1@1 files
-2021/09/01-20:23:31.320 d063 Generated table #25@0: 66 keys, 117708 bytes
-2021/09/01-20:23:31.320 d063 Compacted 4@0 + 1@1 files => 117708 bytes
-2021/09/01-20:23:31.322 d063 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/09/01-20:23:31.322 d063 Delete type=2 #20
-2021/09/01-20:23:31.322 d063 Delete type=2 #16
-2021/09/01-20:23:31.322 d063 Delete type=2 #18
-2021/09/01-20:23:31.322 d063 Delete type=2 #24
-2021/09/01-20:23:31.322 d063 Delete type=2 #22
-2021/09/01-20:31:06.167 d6e3 Level-0 table #27: started
-2021/09/01-20:31:06.171 d6e3 Level-0 table #27: 472938 bytes OK
-2021/09/01-20:31:06.173 d6e3 Delete type=0 #23
-2021/09/01-20:41:13.754 cf91 Level-0 table #29: started
-2021/09/01-20:41:13.768 cf91 Level-0 table #29: 374193 bytes OK
-2021/09/01-20:41:13.770 cf91 Delete type=0 #26
-2021/09/01-20:44:29.596 cf91 Level-0 table #31: started
-2021/09/01-20:44:29.619 cf91 Level-0 table #31: 354028 bytes OK
-2021/09/01-20:44:29.622 cf91 Delete type=0 #28
-2021/09/01-20:52:38.056 df53 Level-0 table #33: started
-2021/09/01-20:52:38.073 df53 Level-0 table #33: 349745 bytes OK
-2021/09/01-20:52:38.076 df53 Delete type=0 #30
-2021/09/01-20:52:38.076 df53 Compacting 4@0 + 1@1 files
-2021/09/01-20:52:38.081 df53 Generated table #34@0: 66 keys, 111458 bytes
-2021/09/01-20:52:38.081 df53 Compacted 4@0 + 1@1 files => 111458 bytes
-2021/09/01-20:52:38.084 df53 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/09/01-20:52:38.084 df53 Delete type=2 #33
-2021/09/01-20:52:38.084 df53 Delete type=2 #27
-2021/09/01-20:52:38.084 df53 Delete type=2 #25
-2021/09/01-20:52:38.084 df53 Delete type=2 #31
-2021/09/01-20:52:38.084 df53 Delete type=2 #29
-2021/09/01-20:55:47.571 df53 Level-0 table #36: started
-2021/09/01-20:55:47.585 df53 Level-0 table #36: 465953 bytes OK
-2021/09/01-20:55:47.587 df53 Delete type=0 #32
+2021/09/13-16:08:17.594 1c4a Reusing MANIFEST /home/fer/.config/vivaldi/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/09/13-16:08:17.595 1c4a Recovering log #288
+2021/09/13-16:08:17.597 1c4a Reusing old log /home/fer/.config/vivaldi/Default/Sync Data/LevelDB/000288.log 
+2021/09/13-16:08:18.027 1c72 Level-0 table #292: started
+2021/09/13-16:08:18.034 1c72 Level-0 table #292: 1036245 bytes OK
+2021/09/13-16:08:18.037 1c72 Delete type=0 #288
+2021/09/13-16:08:18.037 1c72 Compacting 4@0 + 1@1 files
+2021/09/13-16:08:18.051 1c72 Generated table #293@0: 322 keys, 2100702 bytes
+2021/09/13-16:08:18.053 1c72 Generated table #294@0: 289 keys, 22879 bytes
+2021/09/13-16:08:18.053 1c72 Compacted 4@0 + 1@1 files => 2123581 bytes
+2021/09/13-16:08:18.055 1c72 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/09/13-16:08:18.055 1c72 Delete type=2 #283
+2021/09/13-16:08:18.055 1c72 Delete type=2 #289
+2021/09/13-16:08:18.055 1c72 Delete type=2 #286
+2021/09/13-16:08:18.055 1c72 Delete type=2 #292
+2021/09/13-16:08:18.055 1c72 Delete type=2 #280

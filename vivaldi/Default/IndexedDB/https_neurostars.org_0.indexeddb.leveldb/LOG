@@ -1,0 +1,7 @@
+2021/09/11-03:15:19.528 1b68ea Reusing MANIFEST /home/fer/.config/vivaldi/Default/IndexedDB/https_neurostars.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/11-03:15:19.528 1b68ea Recovering log #3
+2021/09/11-03:15:19.532 1b68ea Reusing old log /home/fer/.config/vivaldi/Default/IndexedDB/https_neurostars.org_0.indexeddb.leveldb/000003.log 
+2021/09/11-03:16:53.667 1b68e6 Level-0 table #5: started
+2021/09/11-03:16:53.677 1b68e6 Level-0 table #5: 138139 bytes OK
+2021/09/11-03:16:53.680 1b68e6 Delete type=0 #3
+2021/09/11-03:16:53.680 1b68e6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -2,7 +2,128 @@
   "coc-python|global": {
     "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
     "INTERPRETERS_CACHE_v3_CondaEnvService": [],
-    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/fer/envs/data/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/fer/envs/data",
+        "fileHash": "5e397afe908f4cb40a116b3a79cf5266cdc0e11db80c46334ce88d1758ca5d782b38c7e0dcb118408298e77e504c2408f68f40aeca68fd99ffd645ec5fc5bae4",
+        "envName": "data",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/fer/envs/data/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/fer/envs/data",
+        "fileHash": "5e397afe908f4cb40a116b3a79cf5266cdc0e11db80c46334ce88d1758ca5d782b38c7e0dcb118408298e77e504c2408f68f40aeca68fd99ffd645ec5fc5bae4",
+        "envName": "data",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/fer/.pyenv/versions/3.8.11/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/fer/.pyenv/versions/3.8.11",
+        "fileHash": "109a28007f879b70d4af6003688c21a28cc4bb127055c343c66d784ce461b7cc8376c58d1971a4b64d52fc9b1bd88261dd3008c5fbd55c13239fa9007f695ffa",
+        "envName": "3.8.11",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/fer/.pyenv/versions/3.8.11/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/fer/.pyenv/versions/3.8.11",
+        "fileHash": "8afbb7f47fc0d01749966709554054b864c489e4b2ad1c79011c02cfcfd2caec8773e6c53972c42c2546dc599a2b293b6d3725abb5306ad75ae4baffcf9d9e6e",
+        "envName": "3.8.11",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/fer/.pyenv/versions/3.8.11/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/fer/.pyenv/versions/3.8.11",
+        "fileHash": "f4dbae97e0f6625cd038941cf48c14edaa8bb644565e5db44ea427fe4ffa8919503409d9654fdbe61c5909afe4a80849b1a9739283a9095f2190228ace4758f4",
+        "envName": "3.8.11",
+        "type": "Pyenv"
+      }
+    ],
     "/usr/sbin/python3.9.v3": {
       "data": {
         "architecture": 3,
@@ -13,20 +134,20 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496"
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc"
       },
-      "expiry": 1630613874589
+      "expiry": 1631389331973
     },
     "/usr/sbin/python3.v3": {
       "data": {
@@ -38,20 +159,20 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496"
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc"
       },
-      "expiry": 1630613874589
+      "expiry": 1631389331975
     },
     "/usr/sbin/python.v3": {
       "data": {
@@ -63,20 +184,20 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496"
+        "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7"
       },
-      "expiry": 1630613874590
+      "expiry": 1631389331974
     },
     "/bin/python3.9.v3": {
       "data": {
@@ -88,20 +209,20 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496"
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc"
       },
-      "expiry": 1630613874593
+      "expiry": 1631389331979
     },
     "/bin/python3.v3": {
       "data": {
@@ -113,20 +234,20 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496"
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc"
       },
-      "expiry": 1630613874592
+      "expiry": 1631389331983
     },
     "/bin/python.v3": {
       "data": {
@@ -138,20 +259,20 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496"
+        "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7"
       },
-      "expiry": 1630613874592
+      "expiry": 1631389331983
     },
     "/usr/bin/python3.v3": {
       "data": {
@@ -163,20 +284,20 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496"
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc"
       },
-      "expiry": 1630613874593
+      "expiry": 1631389331985
     },
     "/usr/bin/python3.9.v3": {
       "data": {
@@ -188,20 +309,20 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496"
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc"
       },
-      "expiry": 1630613874593
+      "expiry": 1631389331984
     },
     "/usr/bin/python.v3": {
       "data": {
@@ -213,89 +334,89 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496"
+        "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7"
       },
-      "expiry": 1630613874594
+      "expiry": 1631389331986
     },
     "INTERPRETERS_CACHE_v3_CurrentPathService": [
       {
         "architecture": 3,
-        "path": "/usr/bin/python3",
+        "path": "/home/fer/envs/data/bin/python3",
         "version": {
           "options": {
             "loose": false,
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.8.11-final",
           "major": 3,
-          "minor": 9,
-          "patch": 6,
+          "minor": 8,
+          "patch": 11,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.8.11-final"
         },
-        "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "sysPrefix": "/home/fer/envs/data",
+        "fileHash": "5e397afe908f4cb40a116b3a79cf5266cdc0e11db80c46334ce88d1758ca5d782b38c7e0dcb118408298e77e504c2408f68f40aeca68fd99ffd645ec5fc5bae4",
         "type": "Unknown"
       },
       {
         "architecture": 3,
-        "path": "/usr/bin/python",
+        "path": "/home/fer/envs/data/bin/python",
         "version": {
           "options": {
             "loose": false,
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.8.11-final",
           "major": 3,
-          "minor": 9,
-          "patch": 6,
+          "minor": 8,
+          "patch": 11,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.8.11-final"
         },
-        "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "sysPrefix": "/home/fer/envs/data",
+        "fileHash": "5e397afe908f4cb40a116b3a79cf5266cdc0e11db80c46334ce88d1758ca5d782b38c7e0dcb118408298e77e504c2408f68f40aeca68fd99ffd645ec5fc5bae4",
         "type": "Unknown"
       },
       {
         "architecture": 3,
-        "path": "/usr/bin/python",
+        "path": "/home/fer/envs/data/bin/python",
         "version": {
           "options": {
             "loose": false,
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.8.11-final",
           "major": 3,
-          "minor": 9,
-          "patch": 6,
+          "minor": 8,
+          "patch": 11,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.8.11-final"
         },
-        "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "sysPrefix": "/home/fer/envs/data",
+        "fileHash": "5e397afe908f4cb40a116b3a79cf5266cdc0e11db80c46334ce88d1758ca5d782b38c7e0dcb118408298e77e504c2408f68f40aeca68fd99ffd645ec5fc5bae4",
         "type": "Unknown"
       }
     ],
@@ -309,20 +430,20 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496"
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc"
       },
-      "expiry": 1630613874598
+      "expiry": 1631389331995
     },
     "/sbin/python.v3": {
       "data": {
@@ -334,66 +455,67 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496"
+        "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7"
       },
-      "expiry": 1630613874598
+      "expiry": 1631389331996
     },
     "InterpreterAutoSeletionRule-currentPath": {
       "architecture": 3,
-      "path": "/usr/bin/python",
+      "path": "/home/fer/envs/data/bin/python",
       "version": {
         "options": {
           "loose": false,
           "includePrerelease": false
         },
         "loose": false,
-        "raw": "3.9.6-final",
+        "raw": "3.8.11-final",
         "major": 3,
-        "minor": 9,
-        "patch": 6,
+        "minor": 8,
+        "patch": 11,
         "prerelease": [
           "final"
         ],
         "build": [],
-        "version": "3.9.6-final"
+        "version": "3.8.11-final"
       },
-      "sysPrefix": "/usr",
-      "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+      "sysPrefix": "/home/fer/envs/data",
+      "fileHash": "5e397afe908f4cb40a116b3a79cf5266cdc0e11db80c46334ce88d1758ca5d782b38c7e0dcb118408298e77e504c2408f68f40aeca68fd99ffd645ec5fc5bae4",
       "type": "Unknown"
     },
     "preferredGlobalPyInterpreter": {
       "architecture": 3,
-      "path": "/usr/bin/python",
+      "path": "/sbin/python",
       "version": {
         "options": {
           "loose": false,
           "includePrerelease": false
         },
         "loose": false,
-        "raw": "3.9.6-final",
+        "raw": "3.9.7-final",
         "major": 3,
         "minor": 9,
-        "patch": 6,
+        "patch": 7,
         "prerelease": [
           "final"
         ],
         "build": [],
-        "version": "3.9.6-final"
+        "version": "3.9.7-final"
       },
       "sysPrefix": "/usr",
-      "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
-      "type": "Unknown"
+      "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
+      "type": "Unknown",
+      "displayName": "Python 3.9.7 64-bit"
     },
     "/sbin/python3.9.v3": {
       "data": {
@@ -405,158 +527,135 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496"
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc"
       },
-      "expiry": 1630613874637
+      "expiry": 1631389332008
     },
     "INTERPRETERS_CACHE_v3_KnownPathsService": [
       {
         "architecture": 3,
-        "path": "/usr/bin/python",
+        "path": "/home/fer/envs/data/bin/python",
         "version": {
           "options": {
             "loose": false,
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.8.11-final",
           "major": 3,
-          "minor": 9,
-          "patch": 6,
+          "minor": 8,
+          "patch": 11,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.8.11-final"
         },
-        "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "sysPrefix": "/home/fer/envs/data",
+        "fileHash": "5e397afe908f4cb40a116b3a79cf5266cdc0e11db80c46334ce88d1758ca5d782b38c7e0dcb118408298e77e504c2408f68f40aeca68fd99ffd645ec5fc5bae4",
         "type": "Unknown"
       },
       {
         "architecture": 3,
-        "path": "/usr/bin/python3",
+        "path": "/home/fer/envs/data/bin/python3",
         "version": {
           "options": {
             "loose": false,
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.8.11-final",
           "major": 3,
-          "minor": 9,
-          "patch": 6,
+          "minor": 8,
+          "patch": 11,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.8.11-final"
         },
-        "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "sysPrefix": "/home/fer/envs/data",
+        "fileHash": "5e397afe908f4cb40a116b3a79cf5266cdc0e11db80c46334ce88d1758ca5d782b38c7e0dcb118408298e77e504c2408f68f40aeca68fd99ffd645ec5fc5bae4",
         "type": "Unknown"
       },
       {
         "architecture": 3,
-        "path": "/usr/bin/python3.9",
+        "path": "/home/fer/.pyenv/shims/python",
         "version": {
           "options": {
             "loose": false,
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.8.11-final",
           "major": 3,
-          "minor": 9,
-          "patch": 6,
+          "minor": 8,
+          "patch": 11,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.8.11-final"
         },
-        "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "sysPrefix": "/home/fer/.pyenv/versions/3.8.11",
+        "fileHash": "b8c78fbbd5d84d669eb7dce30be915969a7ae65601baf0de8f7ca85655a600d07462826797d0188316079722536624d7b14fa5b6ff50fd5716b98f993ed62fd5",
         "type": "Unknown"
       },
       {
         "architecture": 3,
-        "path": "/bin/python",
+        "path": "/home/fer/.pyenv/shims/python3",
         "version": {
           "options": {
             "loose": false,
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.8.11-final",
           "major": 3,
-          "minor": 9,
-          "patch": 6,
+          "minor": 8,
+          "patch": 11,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.8.11-final"
         },
-        "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "sysPrefix": "/home/fer/.pyenv/versions/3.8.11",
+        "fileHash": "afd881597ac65d3419a4ebf6994b2f5828020ecb666b1d70792320c79311fb06ab11b3fef3e3eed961a9a9f047ed095dbfb59837251f10cce91fe6ec6ba944fc",
         "type": "Unknown"
       },
       {
         "architecture": 3,
-        "path": "/bin/python3",
+        "path": "/home/fer/.pyenv/shims/python3.8",
         "version": {
           "options": {
             "loose": false,
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.8.11-final",
           "major": 3,
-          "minor": 9,
-          "patch": 6,
+          "minor": 8,
+          "patch": 11,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.8.11-final"
         },
-        "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
-        "type": "Unknown"
-      },
-      {
-        "architecture": 3,
-        "path": "/bin/python3.9",
-        "version": {
-          "options": {
-            "loose": false,
-            "includePrerelease": false
-          },
-          "loose": false,
-          "raw": "3.9.6-final",
-          "major": 3,
-          "minor": 9,
-          "patch": 6,
-          "prerelease": [
-            "final"
-          ],
-          "build": [],
-          "version": "3.9.6-final"
-        },
-        "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "sysPrefix": "/home/fer/.pyenv/versions/3.8.11",
+        "fileHash": "175b40e40adcd1970e26e7b7dd6cb47ea427e4bece14b5ca4bd3ff01276a890be4547da9fc593fed8b44e8d7502b35429d21e7a72027b1ee55b80e6ba0845dd2",
         "type": "Unknown"
       },
       {
@@ -568,18 +667,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
         "type": "Unknown"
       },
       {
@@ -591,18 +690,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc",
         "type": "Unknown"
       },
       {
@@ -614,18 +713,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc",
         "type": "Unknown"
       },
       {
@@ -637,18 +736,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
         "type": "Unknown"
       },
       {
@@ -660,18 +759,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc",
         "type": "Unknown"
       },
       {
@@ -683,18 +782,156 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc",
         "type": "Unknown"
       },
       {
@@ -706,18 +943,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
         "type": "Unknown"
       },
       {
@@ -729,18 +966,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc",
         "type": "Unknown"
       },
       {
@@ -752,18 +989,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc",
         "type": "Unknown"
       },
       {
@@ -775,18 +1012,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
         "type": "Unknown"
       },
       {
@@ -798,23 +1035,252 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.6-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 6,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.6-final"
+          "version": "3.9.7-final"
         },
         "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc",
         "type": "Unknown"
       },
       {
         "architecture": 3,
         "path": "/sbin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b737f0307562f49e07a2818efe545d19c06787ca5322a681ca835990472aa1d0345455efa36b068022f8a07b191dcad4744e99a790e773354eff0986c6520dfc",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [
+      {
+        "pythonPath": "/home/fer/python_projects/try_emacs/bin/python",
+        "workspaceFolder": "/home/fer/python_projects/try_emacs",
+        "envName": "try_emacs"
+      }
+    ],
+    "/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.7 64-bit",
+        "hash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7-d58ad4c8d6c10e1cb750a9ee80157dd9"
+      },
+      "expiry": 1631389332070
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.7 64-bit",
+        "hash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7-36529d2c67b481175dea83a602fd7511"
+      },
+      "expiry": 1631389332110
+    },
+    "/usr/sbin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.7 64-bit",
+        "hash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7-2515aceab7bc9fd97dce081876fb8cb9"
+      },
+      "expiry": 1631389332071
+    },
+    "/sbin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.7 64-bit",
+        "hash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7-efd7650503a0bd84b00d27e06acdf5d9"
+      },
+      "expiry": 1631389332072
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.7-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
+      "type": "Unknown",
+      "displayName": "Python 3.9.7 64-bit"
+    },
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.7-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 7,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.7-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
+          "type": "Unknown",
+          "displayName": "Python 3.9.7 64-bit"
+        }
+      },
+      "expiry": 1631389342506
+    },
+    "/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.7-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 7,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.7-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
+          "type": "Unknown",
+          "displayName": "Python 3.9.7 64-bit"
+        }
+      },
+      "expiry": 1631389332095
+    },
+    "/usr/sbin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/sbin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.7-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 7,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.7-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
+          "type": "Unknown",
+          "displayName": "Python 3.9.7 64-bit"
+        }
+      },
+      "expiry": 1631389332098
+    },
+    "/sbin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
+        "info": {
+          "architecture": 3,
+          "path": "/sbin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.7-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 7,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.7-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
+          "type": "Unknown",
+          "displayName": "Python 3.9.7 64-bit"
+        }
+      },
+      "expiry": 1631389332100
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.7-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "edd8f67c199377465bb8cbb5fb4a5f2a657d76734a1e8e429df6aa09781dfffe993e90c06258a2caeca3ef73804e5d01be9be747837cc4eeade5d1068fdb83a7",
+      "type": "Unknown",
+      "displayName": "Python 3.9.7 64-bit"
+    },
+    "ProposeLSBanner": false,
+    "/home/fer/python_projects/try_emacs/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/fer/python_projects/try_emacs/bin/python",
         "version": {
           "options": {
             "loose": false,
@@ -831,214 +1297,493 @@
           "build": [],
           "version": "3.9.6-final"
         },
-        "sysPrefix": "/usr",
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
-        "type": "Unknown"
-      }
-    ],
-    "PipEnvInformation": [],
-    "/bin/python.interpreter.displayName.v7": {
-      "data": {
-        "displayName": "Python 3.9.6 64-bit",
-        "hash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496-b487107840167688a564ba27cd4dc913"
+        "sysPrefix": "/home/fer/python_projects/try_emacs",
+        "fileHash": "11fe36f9790740d5ced1739c7f5a5e0dba34823ce616fb93f410b2757fe805aa0b0a8abe7b3437862922462ebd5441ccd26f66fbeb3f24abab02f28b3d170282"
       },
-      "expiry": 1630613874647
+      "expiry": 1630954976864
     },
-    "/usr/bin/python.interpreter.displayName.v7": {
+    "/home/fer/python_projects/try_emacs/bin/python3.v3": {
       "data": {
-        "displayName": "Python 3.9.6 64-bit",
-        "hash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496-ba33078a439b021a107796c2c6f279c4"
-      },
-      "expiry": 1630613874714
-    },
-    "/usr/sbin/python.interpreter.displayName.v7": {
-      "data": {
-        "displayName": "Python 3.9.6 64-bit",
-        "hash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496-86f1d320e85979d20ce773fba38b7a86"
-      },
-      "expiry": 1630613874648
-    },
-    "/sbin/python.interpreter.displayName.v7": {
-      "data": {
-        "displayName": "Python 3.9.6 64-bit",
-        "hash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496-9e438f56576bf7979482454da9c8867b"
-      },
-      "expiry": 1630613874649
-    },
-    "InterpreterAutoSeletionRule-system": {
-      "architecture": 3,
-      "path": "/sbin/python",
-      "version": {
-        "options": {
+        "architecture": 3,
+        "path": "/home/fer/python_projects/try_emacs/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
           "loose": false,
-          "includePrerelease": false
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
         },
-        "loose": false,
-        "raw": "3.9.6-final",
-        "major": 3,
-        "minor": 9,
-        "patch": 6,
-        "prerelease": [
-          "final"
-        ],
-        "build": [],
-        "version": "3.9.6-final"
+        "sysPrefix": "/home/fer/python_projects/try_emacs",
+        "fileHash": "11fe36f9790740d5ced1739c7f5a5e0dba34823ce616fb93f410b2757fe805aa0b0a8abe7b3437862922462ebd5441ccd26f66fbeb3f24abab02f28b3d170282"
       },
-      "sysPrefix": "/usr",
-      "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
-      "type": "Unknown",
-      "displayName": "Python 3.9.6 64-bit"
+      "expiry": 1630954976871
     },
-    "/usr/bin/python.interpreter.Details.v7": {
+    "/home/fer/python_projects/try_emacs/bin/python3.interpreter.Details.v7": {
       "data": {
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
-        "info": {
-          "architecture": 3,
-          "path": "/usr/bin/python",
-          "version": {
-            "options": {
-              "loose": false,
-              "includePrerelease": false
-            },
-            "loose": false,
-            "raw": "3.9.6-final",
-            "major": 3,
-            "minor": 9,
-            "patch": 6,
-            "prerelease": [
-              "final"
-            ],
-            "build": [],
-            "version": "3.9.6-final"
-          },
-          "sysPrefix": "/usr",
-          "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
-          "type": "Unknown",
-          "displayName": "Python 3.9.6 64-bit"
-        }
+        "fileHash": "11fe36f9790740d5ced1739c7f5a5e0dba34823ce616fb93f410b2757fe805aa0b0a8abe7b3437862922462ebd5441ccd26f66fbeb3f24abab02f28b3d170282"
       },
-      "expiry": 1630613919082
+      "expiry": 1630954976930
     },
-    "/bin/python.interpreter.Details.v7": {
+    "/home/fer/python_projects/try_emacs/bin/python3.interpreter.displayName.v7": {
       "data": {
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
-        "info": {
-          "architecture": 3,
-          "path": "/bin/python",
-          "version": {
-            "options": {
-              "loose": false,
-              "includePrerelease": false
-            },
-            "loose": false,
-            "raw": "3.9.6-final",
-            "major": 3,
-            "minor": 9,
-            "patch": 6,
-            "prerelease": [
-              "final"
-            ],
-            "build": [],
-            "version": "3.9.6-final"
-          },
-          "sysPrefix": "/usr",
-          "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
-          "type": "Unknown",
-          "displayName": "Python 3.9.6 64-bit"
-        }
+        "displayName": "Python 3.9.6 64-bit ('try_emacs': venv)",
+        "hash": "11fe36f9790740d5ced1739c7f5a5e0dba34823ce616fb93f410b2757fe805aa0b0a8abe7b3437862922462ebd5441ccd26f66fbeb3f24abab02f28b3d170282-a6c6b85fe9332afe58250d0a14dd9a30"
       },
-      "expiry": 1630613874661
+      "expiry": 1630954976967
     },
-    "/usr/sbin/python.interpreter.Details.v7": {
+    "/home/fer/.pyenv/versions/3.8.11/bin/python3.8.v3": {
       "data": {
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
-        "info": {
-          "architecture": 3,
-          "path": "/usr/sbin/python",
-          "version": {
-            "options": {
-              "loose": false,
-              "includePrerelease": false
-            },
+        "architecture": 3,
+        "path": "/home/fer/.pyenv/versions/3.8.11/bin/python3.8",
+        "version": {
+          "options": {
             "loose": false,
-            "raw": "3.9.6-final",
-            "major": 3,
-            "minor": 9,
-            "patch": 6,
-            "prerelease": [
-              "final"
-            ],
-            "build": [],
-            "version": "3.9.6-final"
+            "includePrerelease": false
           },
-          "sysPrefix": "/usr",
-          "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
-          "type": "Unknown",
-          "displayName": "Python 3.9.6 64-bit"
-        }
-      },
-      "expiry": 1630613874664
-    },
-    "/sbin/python.interpreter.Details.v7": {
-      "data": {
-        "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
-        "info": {
-          "architecture": 3,
-          "path": "/sbin/python",
-          "version": {
-            "options": {
-              "loose": false,
-              "includePrerelease": false
-            },
-            "loose": false,
-            "raw": "3.9.6-final",
-            "major": 3,
-            "minor": 9,
-            "patch": 6,
-            "prerelease": [
-              "final"
-            ],
-            "build": [],
-            "version": "3.9.6-final"
-          },
-          "sysPrefix": "/usr",
-          "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
-          "type": "Unknown",
-          "displayName": "Python 3.9.6 64-bit"
-        }
-      },
-      "expiry": 1630613874665
-    },
-    "InterpreterAutoSeletionRule-cachedInterpreters": {
-      "architecture": 3,
-      "path": "/sbin/python",
-      "version": {
-        "options": {
           "loose": false,
-          "includePrerelease": false
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
         },
-        "loose": false,
-        "raw": "3.9.6-final",
-        "major": 3,
-        "minor": 9,
-        "patch": 6,
-        "prerelease": [
-          "final"
-        ],
-        "build": [],
-        "version": "3.9.6-final"
+        "sysPrefix": "/home/fer/.pyenv/versions/3.8.11",
+        "fileHash": "f4dbae97e0f6625cd038941cf48c14edaa8bb644565e5db44ea427fe4ffa8919503409d9654fdbe61c5909afe4a80849b1a9739283a9095f2190228ace4758f4"
       },
-      "sysPrefix": "/usr",
-      "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
-      "type": "Unknown",
-      "displayName": "Python 3.9.6 64-bit"
+      "expiry": 1631317586767
     },
-    "ProposeLSBanner": false
+    "/home/fer/.pyenv/versions/3.8.11/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/fer/.pyenv/versions/3.8.11/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/fer/.pyenv/versions/3.8.11",
+        "fileHash": "8afbb7f47fc0d01749966709554054b864c489e4b2ad1c79011c02cfcfd2caec8773e6c53972c42c2546dc599a2b293b6d3725abb5306ad75ae4baffcf9d9e6e"
+      },
+      "expiry": 1631317586766
+    },
+    "/home/fer/.pyenv/versions/3.8.11/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/fer/.pyenv/versions/3.8.11/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/fer/.pyenv/versions/3.8.11",
+        "fileHash": "109a28007f879b70d4af6003688c21a28cc4bb127055c343c66d784ce461b7cc8376c58d1971a4b64d52fc9b1bd88261dd3008c5fbd55c13239fa9007f695ffa"
+      },
+      "expiry": 1631317586707
+    },
+    "/home/fer/.pyenv/versions/3.8.11/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.11 64-bit ('3.8.11': pyenv)",
+        "hash": "109a28007f879b70d4af6003688c21a28cc4bb127055c343c66d784ce461b7cc8376c58d1971a4b64d52fc9b1bd88261dd3008c5fbd55c13239fa9007f695ffa-7430e5c49a09afeb84c7a32cd1c491e5"
+      },
+      "expiry": 1631317586800
+    },
+    "/home/fer/.pyenv/versions/3.8.11/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "109a28007f879b70d4af6003688c21a28cc4bb127055c343c66d784ce461b7cc8376c58d1971a4b64d52fc9b1bd88261dd3008c5fbd55c13239fa9007f695ffa",
+        "info": {
+          "architecture": 3,
+          "path": "/home/fer/.pyenv/versions/3.8.11/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.11-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 11,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.11-final"
+          },
+          "sysPrefix": "/home/fer/.pyenv/versions/3.8.11",
+          "fileHash": "109a28007f879b70d4af6003688c21a28cc4bb127055c343c66d784ce461b7cc8376c58d1971a4b64d52fc9b1bd88261dd3008c5fbd55c13239fa9007f695ffa",
+          "envName": "3.8.11",
+          "type": "Pyenv",
+          "displayName": "Python 3.8.11 64-bit ('3.8.11': pyenv)"
+        }
+      },
+      "expiry": 1631317586810
+    },
+    "/home/fer/python_projects/try_emacs/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/fer/python_projects/try_emacs/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/fer/python_projects/try_emacs",
+        "fileHash": "11fe36f9790740d5ced1739c7f5a5e0dba34823ce616fb93f410b2757fe805aa0b0a8abe7b3437862922462ebd5441ccd26f66fbeb3f24abab02f28b3d170282"
+      },
+      "expiry": 1630718892687
+    },
+    "/home/fer/python_projects/try_emacs/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.6 64-bit",
+        "hash": "11fe36f9790740d5ced1739c7f5a5e0dba34823ce616fb93f410b2757fe805aa0b0a8abe7b3437862922462ebd5441ccd26f66fbeb3f24abab02f28b3d170282-0725fb405c97228d1a89400cc7fc97f6"
+      },
+      "expiry": 1630718892770
+    },
+    "/home/fer/python_projects/try_emacs/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "11fe36f9790740d5ced1739c7f5a5e0dba34823ce616fb93f410b2757fe805aa0b0a8abe7b3437862922462ebd5441ccd26f66fbeb3f24abab02f28b3d170282",
+        "info": {
+          "architecture": 3,
+          "path": "/home/fer/python_projects/try_emacs/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.6-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.6-final"
+          },
+          "sysPrefix": "/home/fer/python_projects/try_emacs",
+          "fileHash": "11fe36f9790740d5ced1739c7f5a5e0dba34823ce616fb93f410b2757fe805aa0b0a8abe7b3437862922462ebd5441ccd26f66fbeb3f24abab02f28b3d170282",
+          "type": "Unknown",
+          "displayName": "Python 3.9.6 64-bit"
+        }
+      },
+      "expiry": 1630718892786
+    },
+    "pylint_DisableLinterInstallPrompt": true,
+    "/home/fer/.pyenv/shims/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/fer/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/fer/.pyenv/versions/3.8.11",
+        "fileHash": "afd881597ac65d3419a4ebf6994b2f5828020ecb666b1d70792320c79311fb06ab11b3fef3e3eed961a9a9f047ed095dbfb59837251f10cce91fe6ec6ba944fc"
+      },
+      "expiry": 1631317763577
+    },
+    "/home/fer/.pyenv/shims/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/fer/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/fer/.pyenv/versions/3.8.11",
+        "fileHash": "b8c78fbbd5d84d669eb7dce30be915969a7ae65601baf0de8f7ca85655a600d07462826797d0188316079722536624d7b14fa5b6ff50fd5716b98f993ed62fd5"
+      },
+      "expiry": 1631317763578
+    },
+    "/home/fer/.pyenv/shims/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/fer/.pyenv/shims/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/fer/.pyenv/versions/3.8.11",
+        "fileHash": "175b40e40adcd1970e26e7b7dd6cb47ea427e4bece14b5ca4bd3ff01276a890be4547da9fc593fed8b44e8d7502b35429d21e7a72027b1ee55b80e6ba0845dd2"
+      },
+      "expiry": 1631317763577
+    },
+    "/home/fer/.pyenv/shims/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.11 64-bit",
+        "hash": "b8c78fbbd5d84d669eb7dce30be915969a7ae65601baf0de8f7ca85655a600d07462826797d0188316079722536624d7b14fa5b6ff50fd5716b98f993ed62fd5-ec09ea6958d1ec20f8d39f5dee69d29c"
+      },
+      "expiry": 1631317763659
+    },
+    "/home/fer/.pyenv/shims/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b8c78fbbd5d84d669eb7dce30be915969a7ae65601baf0de8f7ca85655a600d07462826797d0188316079722536624d7b14fa5b6ff50fd5716b98f993ed62fd5",
+        "info": {
+          "architecture": 3,
+          "path": "/home/fer/.pyenv/shims/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.11-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 11,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.11-final"
+          },
+          "sysPrefix": "/home/fer/.pyenv/versions/3.8.11",
+          "fileHash": "b8c78fbbd5d84d669eb7dce30be915969a7ae65601baf0de8f7ca85655a600d07462826797d0188316079722536624d7b14fa5b6ff50fd5716b98f993ed62fd5",
+          "type": "Unknown",
+          "displayName": "Python 3.8.11 64-bit"
+        }
+      },
+      "expiry": 1631317763672
+    },
+    "/home/fer/envs/data/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/fer/envs/data/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/fer/envs/data",
+        "fileHash": "5e397afe908f4cb40a116b3a79cf5266cdc0e11db80c46334ce88d1758ca5d782b38c7e0dcb118408298e77e504c2408f68f40aeca68fd99ffd645ec5fc5bae4"
+      },
+      "expiry": 1631317586710
+    },
+    "/home/fer/envs/data/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/fer/envs/data/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/fer/envs/data",
+        "fileHash": "5e397afe908f4cb40a116b3a79cf5266cdc0e11db80c46334ce88d1758ca5d782b38c7e0dcb118408298e77e504c2408f68f40aeca68fd99ffd645ec5fc5bae4"
+      },
+      "expiry": 1631317586709
+    },
+    "/home/fer/envs/data/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.11 64-bit ('data': venv)",
+        "hash": "5e397afe908f4cb40a116b3a79cf5266cdc0e11db80c46334ce88d1758ca5d782b38c7e0dcb118408298e77e504c2408f68f40aeca68fd99ffd645ec5fc5bae4-fce80807a87587a439389c33ffe5da84"
+      },
+      "expiry": 1631317586799
+    },
+    "/home/fer/envs/data/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "5e397afe908f4cb40a116b3a79cf5266cdc0e11db80c46334ce88d1758ca5d782b38c7e0dcb118408298e77e504c2408f68f40aeca68fd99ffd645ec5fc5bae4",
+        "info": {
+          "architecture": 3,
+          "path": "/home/fer/envs/data/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.11-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 11,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.11-final"
+          },
+          "sysPrefix": "/home/fer/envs/data",
+          "fileHash": "5e397afe908f4cb40a116b3a79cf5266cdc0e11db80c46334ce88d1758ca5d782b38c7e0dcb118408298e77e504c2408f68f40aeca68fd99ffd645ec5fc5bae4",
+          "envName": "data",
+          "type": "Venv",
+          "displayName": "Python 3.8.11 64-bit ('data': venv)"
+        }
+      },
+      "expiry": 1631317586807
+    }
   },
   "coc-python|/home/fer/tempbak": {
     "INTERPRETERS_CACHE_v3_PipEnvService:07f80e14de7ca967c9a2bd60caa3734d": [],
     "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:07f80e14de7ca967c9a2bd60caa3734d": [],
     "autoSelectedWorkspacePythonInterpreter-/home/fer/tempbak": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "79356ccf807240dd576e8aaba60f576b98de2926277649e01d034fe624475a6aa11f23b0f6549f61a5cbd51c90f293f4abd2ad8d12f8f346bd4401242c666496",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/fer": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/home/fer/python_projects/try_emacs": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:6942a1e065aca35dad4b6d457853cd35": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:6942a1e065aca35dad4b6d457853cd35": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/fer/python_projects/try_emacs": {
+      "architecture": 3,
+      "path": "/home/fer/python_projects/try_emacs/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/home/fer/python_projects/try_emacs",
+      "fileHash": "11fe36f9790740d5ced1739c7f5a5e0dba34823ce616fb93f410b2757fe805aa0b0a8abe7b3437862922462ebd5441ccd26f66fbeb3f24abab02f28b3d170282",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/home/fer/python_projects/try_emacs/bin/python3"
+  },
+  "coc-python|/home/fer/arc-remote/buildCode/khaled": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:17f481214d61d3898d161804f082375b": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:17f481214d61d3898d161804f082375b": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/fer/arc-remote/buildCode/khaled": {
       "architecture": 3,
       "path": "/usr/bin/python",
       "version": {

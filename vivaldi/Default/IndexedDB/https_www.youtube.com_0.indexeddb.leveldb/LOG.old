@@ -1,21 +1,3 @@
-2021/09/01-20:07:35.421 cbcb Reusing MANIFEST /home/fer/.config/vivaldi/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/09/01-20:07:35.421 cbcb Recovering log #16
-2021/09/01-20:07:35.425 cbcb Reusing old log /home/fer/.config/vivaldi/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000016.log 
-2021/09/01-20:21:11.465 d00d Level-0 table #21: started
-2021/09/01-20:21:11.479 d00d Level-0 table #21: 1025302 bytes OK
-2021/09/01-20:21:11.482 d00d Delete type=0 #16
-2021/09/01-20:21:30.107 cf91 Compacting 1@1 + 1@2 files
-2021/09/01-20:21:30.113 cf91 Generated table #22@1: 332 keys, 24220 bytes
-2021/09/01-20:21:30.113 cf91 Compacted 1@1 + 1@2 files => 24220 bytes
-2021/09/01-20:21:30.115 cf91 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/09/01-20:42:36.020 dc9e Level-0 table #24: started
-2021/09/01-20:42:36.031 dc9e Level-0 table #24: 973279 bytes OK
-2021/09/01-20:42:36.034 dc9e Delete type=2 #21
-2021/09/01-20:42:36.034 dc9e Delete type=2 #18
-2021/09/01-20:42:36.034 dc9e Delete type=0 #20
-2021/09/01-20:42:41.300 dc76 Compacting 1@1 + 1@2 files
-2021/09/01-20:42:41.315 dc76 Generated table #25@1: 369 keys, 32351 bytes
-2021/09/01-20:42:41.315 dc76 Compacted 1@1 + 1@2 files => 32351 bytes
-2021/09/01-20:42:41.317 dc76 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/09/01-20:42:41.318 dc76 Delete type=2 #24
-2021/09/01-20:42:41.318 dc76 Delete type=2 #22
+2021/09/10-02:43:02.776 a0445 Reusing MANIFEST /home/fer/.config/vivaldi/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/10-02:43:02.776 a0445 Recovering log #39
+2021/09/10-02:43:02.776 a0445 Reusing old log /home/fer/.config/vivaldi/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000039.log 

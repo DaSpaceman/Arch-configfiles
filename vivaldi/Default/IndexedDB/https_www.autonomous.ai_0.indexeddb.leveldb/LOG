@@ -1,0 +1,6 @@
+2021/09/03-23:40:04.782 2b94 Creating DB /home/fer/.config/vivaldi/Default/IndexedDB/https_www.autonomous.ai_0.indexeddb.leveldb since it was missing.
+2021/09/03-23:40:04.797 2b94 Reusing MANIFEST /home/fer/.config/vivaldi/Default/IndexedDB/https_www.autonomous.ai_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/03-23:40:37.837 2b99 Level-0 table #5: started
+2021/09/03-23:40:37.840 2b99 Level-0 table #5: 7121 bytes OK
+2021/09/03-23:40:37.843 2b99 Delete type=0 #3
+2021/09/03-23:40:37.843 2b99 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

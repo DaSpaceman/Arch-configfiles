@@ -1,0 +1,7 @@
+2021/09/10-03:15:36.465 d0f04 Reusing MANIFEST /home/fer/.config/vivaldi/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/10-03:15:36.465 d0f04 Recovering log #3
+2021/09/10-03:15:36.465 d0f04 Reusing old log /home/fer/.config/vivaldi/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/000003.log 
+2021/09/10-03:15:41.038 c056f Level-0 table #5: started
+2021/09/10-03:15:41.040 c056f Level-0 table #5: 13387 bytes OK
+2021/09/10-03:15:41.042 c056f Delete type=0 #3
+2021/09/10-03:15:41.042 c056f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
