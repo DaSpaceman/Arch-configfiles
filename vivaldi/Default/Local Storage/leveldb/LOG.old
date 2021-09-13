@@ -1,6 +1,6 @@
-2021/09/13-16:08:17.599 3 Reusing MANIFEST /home/fer/.config/vivaldi/Default/Local Storage/leveldb/MANIFEST-000001
-2021/09/13-16:08:17.610 3 Recovering log #194
-2021/09/13-16:08:17.612 3 Reusing old log /home/fer/.config/vivaldi/Default/Local Storage/leveldb/000194.log 
-2021/09/13-16:09:18.570 3 Level-0 table #198: started
-2021/09/13-16:09:18.573 3 Level-0 table #198: 107531 bytes OK
-2021/09/13-16:09:18.576 3 Delete type=0 #194
+2021/09/13-18:28:09.374 3 Reusing MANIFEST /home/fer/.config/vivaldi/Default/Local Storage/leveldb/MANIFEST-000001
+2021/09/13-18:28:09.375 3 Recovering log #197
+2021/09/13-18:28:09.375 3 Reusing old log /home/fer/.config/vivaldi/Default/Local Storage/leveldb/000197.log 
+2021/09/13-18:28:59.810 3 Level-0 table #201: started
+2021/09/13-18:28:59.819 3 Level-0 table #201: 95279 bytes OK
+2021/09/13-18:28:59.824 3 Delete type=0 #197

@@ -1,16 +1,6 @@
-2021/09/13-16:08:17.594 1c4a Reusing MANIFEST /home/fer/.config/vivaldi/Default/Sync Data/LevelDB/MANIFEST-000001
-2021/09/13-16:08:17.595 1c4a Recovering log #288
-2021/09/13-16:08:17.597 1c4a Reusing old log /home/fer/.config/vivaldi/Default/Sync Data/LevelDB/000288.log 
-2021/09/13-16:08:18.027 1c72 Level-0 table #292: started
-2021/09/13-16:08:18.034 1c72 Level-0 table #292: 1036245 bytes OK
-2021/09/13-16:08:18.037 1c72 Delete type=0 #288
-2021/09/13-16:08:18.037 1c72 Compacting 4@0 + 1@1 files
-2021/09/13-16:08:18.051 1c72 Generated table #293@0: 322 keys, 2100702 bytes
-2021/09/13-16:08:18.053 1c72 Generated table #294@0: 289 keys, 22879 bytes
-2021/09/13-16:08:18.053 1c72 Compacted 4@0 + 1@1 files => 2123581 bytes
-2021/09/13-16:08:18.055 1c72 compacted to: files[ 0 2 1 0 0 0 0 ]
-2021/09/13-16:08:18.055 1c72 Delete type=2 #283
-2021/09/13-16:08:18.055 1c72 Delete type=2 #289
-2021/09/13-16:08:18.055 1c72 Delete type=2 #286
-2021/09/13-16:08:18.055 1c72 Delete type=2 #292
-2021/09/13-16:08:18.055 1c72 Delete type=2 #280
+2021/09/13-18:28:09.445 3c1 Reusing MANIFEST /home/fer/.config/vivaldi/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/09/13-18:28:09.445 3c1 Recovering log #291
+2021/09/13-18:28:09.449 3c1 Reusing old log /home/fer/.config/vivaldi/Default/Sync Data/LevelDB/000291.log 
+2021/09/13-18:28:10.237 3c0 Level-0 table #297: started
+2021/09/13-18:28:10.243 3c0 Level-0 table #297: 780788 bytes OK
+2021/09/13-18:28:10.246 3c0 Delete type=0 #291
